@@ -1,8 +1,74 @@
 פֿאַרװאָס ; why ; farvos
 מײַן ; my ; mayn
-אײנעקלעך ; grandchildren ; eyniklekh
-שנור ; daughter-in-law ; shnur
-איידעם ; son-in-law ; eydem
-שוויגער ; mother-in-law ; shviger
-שווער ; father-in-law ; shver
+דאָס אײניקל(עך) ; grandchild(ren) ; eyniklekh
+די שנור (שניר) ; daughter(s)-in-law ; shnur
+דער איידעם(ס) ; son(s)-in-law ; eydem
+די שוויגער(ס) ; mother(s)-in-law ; shviger
+דער שווער(נ) ; father(s)-in-law ; shver
 גיב אַ קוק אױף ; take a look at ... ; gib a kuk af
+אין סכּנה ; in danger ; in sakone
+די סכּנה(ס) ; danger ; sakone
+זאָל זײַן ; let it be ; zol zayn
+כאַפּ אַ דרעמל ; take a nap ; khap a dreml
+פּורים פֿאַרשטעלט מענ זיך ; on Purim, people wear costumes (lit. disguise disguise themselves) ; purem farshtelt men zikh
+באַקן ; to bake ; bakn
+טראָגן ; to carry ; trogn
+עס טוט װײ? ; does it hurt? ; es tut vey?
+עס איז גוט אײַך צו זען איך ; it's good to see you ; es iz gut aykh tsu zen ir
+די ערד(ן) ; floor / ground ; erd
+דאַרפֿן ; to need / require ; darfn
+די מאַמע פֿון ; the mom of ; di mame fun
+דאָס קנעכל(ן) ; the ankle / knuckle ; dos knekhl
+די װאַקסענע קינדער ; the grown children ; di vaksene kinder
+איצט ; now ; itst
+װײַל ; because ; vayl
+רעכטס ; right ; rekhts
+לינקס ; left ; links
+אײַף רעכטס ; on the right ; af rekhts
+אַײַף לינקס ; on the left ; af links
+הױך ; high / loud ; hoykh
+נידעריק ; short ; niderik
+ברײט ; wide ; breyt
+שמאָל ; narrow ; shmol
+דיק ; thick ; dik
+דין ; thin ; din
+לאַנג  ; long ; lang
+קורץ ; short ; kurts
+גלײַך ; level / straight ; glaykh
+קרום ; crooked ; krum
+דער אײַטאָ(ס) ; the car(s) ; der oyto
+נײַ ; new ; nay
+אַלט ; old (people or objects) ; alt
+שװער ; heavy / difficult ; shver
+לײַכט / גרינג ; light / easy ; laykht / gring
+װײך ; soft ; aykh
+האַרט ; hard ; hart
+רײן ; clean ; reyn
+שמוציק ; dirty ; shmutsik
+קאַלט ; cold ; kalt
+הײס ; hot ; heys
+שײן ; pretty ; sheyn
+מיאוס ; ugly ; mies
+היח ; animal ; khaye
+גיך ; fast ; gikh
+פּאָמעלעך ; slow ; pomelekh
+קלוג ; clever ; klug
+נאַריש ; foolish ; narish
+צי ; whether, or (in questions) ; tsi
+שטאַרק ; strong ; shtark
+שװאַך ; weak ; shvakh
+יונג ; young ; yung
+טרױעריק ; sad ; troyerik
+פֿרײלעך ; happy ; freylekh
+געדענקען ; remember ; gedenken
+די מערצאָל(ן) ; plural (grammatically) ; mertsol
+דער טעלער(ס) ; plate, bowl (plural can also same as singular) ; teler
+דער לעפֿל ; spoon (plural same as singular) ; lefl
+כּמעט ; almost ; kemat
+יעדערער ; each ; yederer
+מוז ; must ; muz (e.g., muz habn)
+צו ; too ; tsu (e.g., tsu alt)
+שױן ; already ; shoyn
+אַ פֿעדער װאָס איז בלױ ; a pen that is blue ; a feder vos is bloy
+נישטאָ מער ; no more ; nishto mer
+שטיל ; quiet ; shtil
