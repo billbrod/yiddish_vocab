@@ -4,7 +4,7 @@
 די שנור (שניר) ; daughter(s)-in-law ; shnur
 דער איידעם(ס) ; son(s)-in-law ; eydem
 די שוויגער(ס) ; mother(s)-in-law ; shviger
-דער שווער(נ) ; father(s)-in-law ; shver
+דער שווער(ן) ; father(s)-in-law ; shver
 גיב אַ קוק אױף ; take a look at ... ; gib a kuk af
 אין סכּנה ; in danger ; in sakone
 די סכּנה(ס) ; danger ; sakone
@@ -24,8 +24,8 @@
 װײַל ; because ; vayl
 רעכטס ; right ; rekhts
 לינקס ; left ; links
-אײַף רעכטס ; on the right ; af rekhts
-אַײַף לינקס ; on the left ; af links
+אױף רעכטס ; on the right ; af rekhts
+אַױף לינקס ; on the left ; af links
 הױך ; high / loud ; hoykh
 נידעריק ; short ; niderik
 ברײט ; wide ; breyt
