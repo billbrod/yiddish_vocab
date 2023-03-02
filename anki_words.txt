@@ -27,22 +27,22 @@
 אױף רעכטס ; on the right ; af rekhts
 אַױף לינקס ; on the left ; af links
 הױך ; high / loud ; hoykh
-נידעריק ; short ; niderik
+נידעריק ; short (vertically) ; niderik
 ברײט ; wide ; breyt
 שמאָל ; narrow ; shmol
 דיק ; thick ; dik
 דין ; thin ; din
 לאַנג  ; long ; lang
-קורץ ; short ; kurts
+קורץ ; short (length) ; kurts
 גלײַך ; level / straight ; glaykh
 קרום ; crooked ; krum
-דער אײַטאָ(ס) ; the car(s) ; der oyto
+דער אױטאָ(ס) ; the car(s) ; der oyto
 נײַ ; new ; nay
 אַלט ; old (people or objects) ; alt
 שװער ; heavy / difficult ; shver
 לײַכט / גרינג ; light / easy ; laykht / gring
 װײך ; soft ; aykh
-האַרט ; hard ; hart
+האַרט ; hard (opposite of soft) ; hart
 רײן ; clean ; reyn
 שמוציק ; dirty ; shmutsik
 קאַלט ; cold ; kalt
