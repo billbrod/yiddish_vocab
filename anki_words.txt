@@ -117,7 +117,7 @@
 אונדזער ; our ; undzer
 אײַער ; your (plural) ; ayer
 זײער ; their ; zeyer
-עפֿן די מיקקראָפֿאָן ; turn on the microphone
+עפֿן די מיקראָפֿאָן ; turn on the microphone ; efn di mikrofon
 בלאָטע שבבלאָטע ; utter nonsense (lit. muddiest of mud, from Sholem Aleykhem) ; blote shebeblote
 קױפֿן ; to buy ; koyfn
 רײַך ; rich ; raykh
@@ -151,7 +151,7 @@
 װאָס הערט זיך? ; what's new with you? ; vos hert zikh?
 װאָס זאָל זיך הערן? ; what's there to hear? (response to "vos hert zikh?") ; vos zol zikh hern?
 נישטאָ קײן נײַעס ; nothing new (response to "vos hert zikh?") ; nishto kein nayes
-די באָבע יערט זיך ; time goes on (funny response to "vos hert zikh?"; lit. the grandmother gets a year older) ; di bobe yert zikh
+די באָבע יערט זיך ; time goes on (funny response to "vos hert zikh?", lit. the grandmother gets a year older) ; di bobe yert zikh
 דער גראַם(ען) ; rhyme ; gram(en)
 מיט מזל [זאָלט איר / זאָלסטו] לעבן ; response to mazel tov ; mit mazl [zolt ir / zolstu] lebn
 דער רבֿ (רבנים) ; rabbi ; rov (rabonem)
