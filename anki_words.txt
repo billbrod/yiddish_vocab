@@ -136,7 +136,7 @@
 די פֿאַן(ען) ; frying pan ; fan
 די פּוטער ; butter ; puter
 דער באָב(עס) ; bean ; bob
-די/דער שװאָמ(ען) ; mshroom ; shvom(en)
+די/דער שװאָמ(ען) ; mushroom ; shvom(en)
 דער מחבר (מהברים) ; author ; mekhaber (mekhabrem)
 די קראָמ(ען) ; store ; krom
 אײַנגעבױגן ; bent-over ; ayngeboygn
@@ -148,3 +148,45 @@
 װאַקסן ; to grow ; vaksn
 קריגנ ; to get ; krign
 װאָס װילסטו? דאָס טעלערל פֿון הימל? ; what do you want? a plate from the sky (heaven) [denotes something impossible to get] ; vos vilstu? dos telerl fun himl?
+האַלטן אַ סמועס ; to hold a conversation ; haltn a shmues
+װאָס הערט זיך? ; what's new with you? ; vos hert zikh?
+װאָס זאָל זיך הערן? ; what's there to hear? (response to "vos hert zikh?") ; vos zol zikh hern?
+נישטאָ קײן נײַעס ; nothing new (response to "vos hert zikh?") ; nishto kein nayes
+די באָבע יערט זיך ; time goes on (funny response to "vos hert zikh?"; lit. the grandmother gets a year older) ; di bobe yert zikh
+דער גראַם(ען) ; rhyme ; gram(en)
+מיט מזל [זאָלט איר / זאָלסטו] לעבן ; response to mazel tov ; mit mazl [zolt ir / zolstu] lebn
+דער רבֿ (רבנים) ; rabbi ; rov (rabonem)
+װעגן ; about, concerning (e.g., "talk about") ; vegn
+אײַלן זיך ; to rush (e.g., "the messiah isn't rushing") ; ayln zikh
+דערלאַנגן ; to pass / hand over ; derlangn
+זי איז געשטאָרבן ; she's dead (blunt) ; zi iz geshtorbn
+דאָס פּאָרפֿאָלק(ן) ; married couple ; porfolk(n)
+דער/דאָס קישן(ס) ; pillow ; kishn(s)
+די עלטערן ; parents (always plural, no singular) ; eltern
+די טאָכטער (טעכטער) ; daughter ; di tokhter (tekhter)
+דער זון (זין) ; son ; zun (zin)
+דאָס שװעסטערקינד(ער) / דער קוזין(ס) / די קוזינע(ס) ; cousin ; dos shvesterkind(er) / der kuzin(s) / di kuzine(s)
+די באָבע(ס) ; grandmother ; di bobe(s)
+דער זײַדע(ס) ; grandfather ; der zeyde(s)
+די שװעגערין(ס) ; sister-in-law ; di shvegerin(s)
+די שװעסטער ; sister ; di shvester (plural same as singular)
+דער ברודער (ברידער) ; brother ; der bruder (brider)
+דער שװאָגער(ס) ; brother-in-law ; der shvoger(s)
+דער פֿעטער(ס) ; uncle ; der feter(s)
+די פּלימעניצע(ס) ; niece ; di plimenitse(s)
+דער פּלימעניק(עס) ; nephew ; der plimenik(es)
+די מומע(ס) / די טאַנטע(ס) ; aunt ; di mume(s) / di tante(s)
+דער סוף ; the end ; der sof
+דאָס עופֿעלע(ך) ; infant/baby ; dos eyfele(kh)
+די מחותּנים ; son/daughter-in-law's parents ; di makhetonem
+דער מחותּן ; son/daugher-in-law's father ; der mekhutn
+די מחותּןתטע ; son/daughter-in-law's mother ; di mekhuteneste
+פֿאָרן ; to travel by vehicle ; forn
+די/דאָס מעל ; flour ; mel (no plural)
+דער דאַך (דעךער) ; roof ; der dakh (dekher)
+דער רעגן(ס) ; the rain ; der regn(s)
+דער שנײ(ן) ; the snow ; der shney(n)
+דער/די לאָך (לעכער) ; hole ; der/di lokh (lekher)
+האַלב ; half (adj.) ; halb
+מיט אַ יאָר צוריק ; last year ; mit a yor tsurik
+גיבן ; to give ; gibn
