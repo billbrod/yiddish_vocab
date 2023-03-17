@@ -14,7 +14,7 @@
 טראָגן ; to carry ; trogn
 עס טוט װײ? ; does it hurt? ; es tut vey?
 עס איז גוט אײַך צו זען איר ; it's good to see you ; es iz gut aykh tsu zen ir
-די ערד(ן) ; floor / ground ; erd
+די ערד(ן) ; floor / ground (inside or outside) ; erd
 דאַרפֿן ; to need / require ; darfn
 די מאַמע פֿון ; the mom of ; di mame fun
 דאָס קנעכל(ן) ; the ankle / knuckle ; dos knekhl
@@ -243,3 +243,25 @@
 זײַ(ט) אַזױ גוט ; please, informal (formal) ; zay(t) azoy gut
 נישטאָ פֿאַרװאָס ; you're welcome (response to thank you) ; nishto farvos
 זײַ(ט) מיר מוחל ; sorry, informal (formal) ; zay(t) mir moykhl
+זי האָט חתונה געהאָט מיט ; she got married to... ; zi hot khasene geat mit...
+זי האָט זיך געגט ; she got divorced ; zi hot zikh geget (generic divorce, not a "get" specifically)
+זי איז אַ חתונה געהאָטע ; she is married ; zi iz a khasene gehote
+זי האָט געהאַט זיבן טעכטער ; she had seven daughers ; zi hot gehat zibn tekhter
+דאָס מיטקינד(ער) ; sibling ; dos mitkind(er)
+דאָס בין איך ; this is me (e.g., when showing a picture) ; dos bin ikh
+דאָס יז אַלץ ; that's all ; dos is alts
+די קינדער זײַנען אַדאָפּטירט ; the children are adopted ; di kinder zaynen adoptirt
+װײנען ; to cry ; veynen
+לױפֿן ; to run ; loyfn
+די יונגע מומע ; the young aunt ; di yunge mume (note the extra ayen)
+דאָס טרױעריקע שװעסטערקינד ; the sad cousin ; di troyerike shvesterkind (note the extra ayen)
+די אײנצאָל ; singular (gramatically) ; di eyntsol
+דער שװאַכער זײדע ; the weak grandfather ; der shvakher zeyde (note the extra ayen-reysh)
+אַ יונגע מומע ; a young aunt ; a yunge mume (note the extra ayen)
+אַ טרױעריק שװעסטערקינד ; a sad cousin ; a troyerike shvesterkind (note nothing is done to adjective)
+אַ שװאַכער זײדע ; a weak grandfather ; der shvakher zeyde (note the extra ayen-reysh)
+פֿיר מאָל ; four times (e.g., "she was married four times") ; fir mol
+באַלאַגאַן ; mess, chaos ; balagan (from Persian via Turkish and Russian)
+דער דיל ; the floor (always inside) ; der dil
+הענגן ; to hang (e.g., "the picture is hanging on the wall") ; hengn
+ליגן ; to lie (e.g., "the book is lying on the counter") ; lign
