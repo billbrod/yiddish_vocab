@@ -243,7 +243,7 @@
 זײַ(ט) אַזױ גוט ; please, informal (formal) ; zay(t) azoy gut
 נישטאָ פֿאַרװאָס ; you're welcome (response to thank you) ; nishto farvos
 זײַ(ט) מיר מוחל ; sorry, informal (formal) ; zay(t) mir moykhl
-זי האָט חתונה געהאָט מיט ; she got married to... ; zi hot khasene geat mit...
+זי האָט חתונה געהאַט מיט ; she got married to... ; zi hot khasene gehat mit...
 זי האָט זיך געגט ; she got divorced ; zi hot zikh geget (generic divorce, not a "get" specifically)
 זי איז אַ חתונה געהאָטע ; she is married ; zi iz a khasene gehote
 זי האָט געהאַט זיבן טעכטער ; she had seven daughers ; zi hot gehat zibn tekhter
