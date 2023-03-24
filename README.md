@@ -20,7 +20,7 @@ case I need them.
 - For verbs, I have listed the infinitive.
 - For nouns, I include the article for the singular form and add the plural form
   (no article) in parentheses. For example, `דאָס קנעכל(ן)`: `knekhl` is the
-  singular form, `knekhln` is the plural. When the plura form is completely
+  singular form, `knekhln` is the plural. When the plural form is completely
   separate (not just a suffix), there's a space between the two: `די קרובֿה
   (קרובֿות)`.
 - Most notes are included with the transliteration, though disambiguation notes,
@@ -41,3 +41,31 @@ update the existing deck in place. Sometimes if I modify existing lines in the
 txt file (for example, fixing a typo), Anki imports the line as a new card
 instead of modifying the old one, so I'd periodically check for duplicates using
 the browse cards option in Anki.
+
+### How to import
+
+If you're unfamiliar with GitHub and similar, the following instructions should
+hopefully help:
+
+- Click on the `Yiddish.apkg` file in this repository:
+
+![Click on Yiddish.apkg](assets/gh-1.png)
+
+- Click on the download button in the top right to download the file to your computer:
+
+![Download Yiddish.apkg](assets/gh-2.png)
+
+- Open up Anki, then click on `File -> Import`:
+
+![Open up the deck import](assets/anki-1.png)
+
+- Click on the deck to import it.
+
+![Import Yiddish.apkg](assets/anki-2.png)
+
+- Hopefully that works! The [Anki docs](https://docs.ankiweb.net/importing.html)
+  have more information.
+
+- If you want to use Anki on multiple devices (e.g., computer and phone), you'll
+  need to use [AnkiWeb](https://ankiweb.net/about) to sync between them. See the
+  [Anki documentation](https://docs.ankiweb.net/syncing.html) for details.
