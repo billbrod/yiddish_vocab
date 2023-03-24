@@ -53,7 +53,7 @@
 פּאָמעלעך ; slow ; pomelekh
 קלוג ; clever ; klug
 נאַריש ; foolish ; narish
-צי ; whether, or (in questions) ; tsi
+צי ; whether, or (in questions), introduces yes/no questions ; tsi
 שטאַרק ; strong ; shtark
 שװאַך ; weak ; shvakh
 יונג ; young ; yung
@@ -285,3 +285,50 @@
 אַנדערש ; different (adverb, e.g., "the room looks different") ; andersh
 השומר אָחי אָנוכי ; am I my brother's keeper? (used to humorously express indignance at being asked a supposedly inappropriate question: "how should I know?") ; hashoymer okhi onoykhi?
 פֿון װאַנען זאָל איך װיסן? ; how should I know? ; fun vanen zol ikh visn?
+דער װעטער(ן) ; the weather ; der veter
+װי איז דער װעטער הײַנט? ; how is the weather today? ; vi iz der veter haynt?
+עס איז פֿאַרװאָלקנט ; it's cloudy ; es iz farvolknt
+עס שײַנט די זון / די זון שײַנט ; the sun is shining ; es shaynt di zun / di zun shaynt
+מאָדנע ; strange, weird ; modne
+עס גײט אַ רעגן ; it's raining ; es geyt a regn
+עס גײט אַ שנײ ; it's snowing ; es geyt a shney
+עס בלאָזט אַ װינט ; it's windy ; es blozt a vint
+עס איז הײס / װאַרעם / קאַלט ; it's hot / warm / cold ; es iz heys / varem / kalt
+עס איז פֿאַרנעפּלט ; it's foggy ; es iz farneplt
+דער נעפּל(ען) ; the fog ; der nepl(en)
+פּונקט װי אױף ענגליש ; just like in English ; punkt vi af in english
+װיפֿל גראַד ; what temperature ; vifl grad (lit. how many degrees?)
+דערפֿאַר ; therefore ; derfar
+דאָרט ; there ; dort
+איך גײ נישט אין דראָסן ; I don't go outside ; ikh gey nisht in droysn
+די גאַנצע צײַט ; all the time ; di gantse tsayt
+איך בלײַב אין בעט ; I stay in bed ; ikh blayb in bet
+אָפּטימיסטיש ; optimistic ; optimistish
+נאַיװ ; naive ; naiv
+ענטוזיאַסטיש ; enthusiastic ; entuziastish
+אינטעלעקטועל ; intellectual ; intelektuel
+אינטערעסאַנט ; interesting ; interesant
+קאָסמאָפּאָליטיש ; cosmpolitan ; kosmopolitish
+אַריסטאָקראַטיש ; aristocratic ; aristokratish
+רעליגיעז ; religious ; religiez
+דער געדאַנק(ען) ; thought, idea ; der gedank(en)
+ער טוט אַ רױטע העמד ; he wears a red shirt ; er tut a roite hemd
+דער לײענער ; reader (masculine) ; der leyener
+דער שרײַבער ; writer (masculine) ; der shrayber
+די רעדערין ; speaker (feminine) ; di rederin
+די זינגערין ; singer (feminine) ; di zingerin
+זי איז אַ גוטער מענטש ; she's a good person ; zi iz a guter mentsh
+באַליבטסטער ; favorite ; balibtster
+טײַערסטע ; dearest ; tayerste
+חידוש ; no surprise there ; khidesh
+ניצן ; to use, make use of ; nitsn
+הפֿקר ; forsaken ; hefker
+דער אָרעם(ס) ; arm ; der orem
+עלנטיקן ; to go around lonely ; elntikn
+די טרײסטונג ; comfort ; treystung
+געמישט ; mixed ; gemisht
+שענער ; more pretty ; shener
+צי מײנסט דו אַז... ; do you think that... ; tsi meynst du az...
+ענטפֿערן ; to answer ; entfern
+ער בלאָזט זיך װי אַן אינדיק ; he puffs himself up like a turkey (he expresses anger or arrogance) ; er blozt zikh vi an indik
+דער צד ; side (as in, "father's side" or side in a disagreement) ; der tsad
