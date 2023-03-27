@@ -9,7 +9,7 @@
 די סכּנה(ס) ; danger ; sakone
 זאָל זײַן ; let it be ; zol zayn
 כאַפּ אַ דרעמל ; take a nap ; khap a dreml
-פּורים פֿאַרשטעלט מענ זיך ; on Purim, people wear costumes (lit. disguise disguise themselves) ; purem farshtelt men zikh
+פּורים פֿאַרשטעלט מען זיך ; on Purim, people wear costumes (lit. disguise disguise themselves) ; purem farshtelt men zikh
 באַקן ; to bake ; bakn
 טראָגן ; to carry ; trogn
 עס טוט װײ? ; does it hurt? ; es tut vey?
@@ -179,7 +179,7 @@
 דאָס עופֿעלע(ך) ; infant/baby ; dos eyfele(kh)
 די מחותּנים ; son/daughter-in-law's parents ; di makhetonem
 דער מחותּן ; son/daugher-in-law's father ; der mekhutn
-די מחותּןתטע ; son/daughter-in-law's mother ; di mekhuteneste
+די מחותּנתטע ; son/daughter-in-law's mother ; di mekhuteneste
 פֿאָרן ; to travel by vehicle ; forn
 די/דאָס מעל ; flour ; mel (no plural)
 דער דאַך (דעכער) ; roof ; der dakh (dekher)
@@ -271,7 +271,7 @@
 נעמען ; to take ; nemen
 נײטראַל ; neuter (gramatically, adjective) ; neytral
 דער טאָפּ (טעפּ) ; cup ; der top (tep)
-די אָראַנזשענע העפֿט ; the orange workbook ; di oranzhe heft (note the extra ענע-, not ע-)
+די אָראַנזשענע העפֿט ; the orange workbook ; di oranzhene heft (note the extra ענע-, not ע-)
 דאָס לילאַ פּאַפּיר ; the purple paper ; dos lila papir (note lila never changes, same with פּערפּל)
 דער ראָזעװער בלײַער ; the pink pencil ; der rozever blayer (note, adds ר-, not ער-)
 חנעװדיק ; cute, charming ; kheynevdik
