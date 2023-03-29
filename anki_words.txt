@@ -378,7 +378,7 @@
 דער שפּיטאָל (שפּיטעלער) ; hospital ; der shpitol (shpiteler)
 אַ מאָל... ; sometimes... ; a mol...
 דער אַקטיאָר(ן) ; actor ; der aktyor(n)
-איך בין מסכּים ; I agree ; ikh bin maskem
+איך בין (נישט) מסכּים ; I (don't) agree ; ikh bin (nisht) maskem
 דער מוזיקער(ס) ; musician (masc) ; der muziker(s)
 אַ סך ; a lot ; a sakh (no preposition afterwards)
 אַ ביסל ; a little ; a bisl (no preposition afterwards)
@@ -404,3 +404,13 @@
 כליפּען ; to sob ; khlipen
 צינדן ; to kindle ; tsindn
 אָן ; without (e.g., "tea without sugar") ; on
+פֿרי ; early (adverb) ; fri
+פּלוצלינג ; suddenly (adverb) ; plutsling
+זוכן ; to seek, search ; zukhn
+רעדן צװישן זיך ; talk among themselves ; redn tsvishn zikh
+צװישן ; between, among ; tsvishn
+אַװעקלײגן ; to put down / away ; avekleygn
+שרײַבן גאַנצע זאַצן ; to write complete sentences ; shraybn gantse zatsn
+טײל פֿון ; part of ; teyl fun
+אײדער ; before ; eyder
+דער יום-טובֿ (יום-טובֿים) ; major religious holiday ; der yontev (yontoyvem)
