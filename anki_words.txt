@@ -222,7 +222,7 @@
 דאָס שפּריכװאָרט (שפּריכװערטער) ; folk saying ; shprikhvort
 דער זאַץ (זאַצן) ; sentence ; der zats(n)
 אױב ; if ; oyb
-נאָר ; only ; nor
+נאָר ; only, but ; nor (same usage as "אָבער")
 דער קלאַנג(ן) ; sound ; der klang(n)
 דער קאַצניאָמער ; hangover ; der katsnyomer
 העלפֿן ; to help ; helfn
@@ -394,3 +394,14 @@
 דער לימוד (לימודים) ; subject / area of study ; der limed (limudem)
 װאָס מײנסטו? ; what do you think? ; vos meynstu?
 אַלע מאָל ; every time ; ale mol
+נודנע ; boring ; nudne
+די לעקציע(ס) ; lecture ; di lektsye(s)
+האַלטן ; to hold (e.g., "hold an exam / presentation / lecture") ; haltn
+דער רעפֿעראַט(ן) ; lecture / presentation / scholarly talk ; der referat(n)
+דער אױספֿרעג(ען) ; quiz, survey, poll ; der oysfreg(en)
+נודיען ; to be annoying or boring ; nudyen
+זשאַלעװען ; to be stingy ; zhaleven
+כראָפּען ; to snore ; khropen
+כליפּען ; to sob ; khlipen
+צינדן ; to kindle ; tsindn
+אָן ; without (e.g., "tea without sugar") ; on
