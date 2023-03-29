@@ -281,7 +281,7 @@
 נאָך אַלץ ; still ; nokh alts
 גלאַט אַזױ ; no particular reason ; glat azoy
 להבֿדיל ; excuse / forgive the comparison ; lehavdil
-זשע ; then (emphasis) ; zhe
+זשע ; then (emphasis), suffix to intensity imperative verb ; zhe (e.g., "kumt-zhe!")
 אַנדערש ; different (adverb, e.g., "the room looks different") ; andersh
 השומר אָחי אָנוכי ; am I my brother's keeper? (used to humorously express indignance at being asked a supposedly inappropriate question: "how should I know?") ; hashoymer okhi onoykhi?
 פֿון װאַנען זאָל איך װיסן? ; how should I know? ; fun vanen zol ikh visn?
@@ -381,3 +381,16 @@
 דער אַקטיאָר(ן) ; actor ; der aktyor(n)
 איך בין מסכּים ; I agree ; ikh bin maskem
 דער מוזיקער(ס) ; musician (masc) ; der muziker(s)
+אַ סך ; a lot ; a sakh (no preposition afterwards)
+אַ ביסל ; a little ; a bisl (no preposition afterwards)
+אַ קלײן ביסל ; a very little ; a kleyn bisl (no preposition afterwards)
+מער װי ; more than ; mer vi
+װײניקער װי ; less than ; veyniker vi
+אַװדאי ; of course ; avade
+אױף מיר געזאָגט ; I should be so lucky ; af mir gezogt
+איך מעײן אַז יאָ / נישט ; I believe so / I don't believe so ; ikh meyn as yo / nisht
+די מײנונג(ען) ; the opinion ; di meynung(en)
+װאָס מײן “אַ סך“ ; what does "a sakh" mean? ; vos meyn "a sakh"?
+דער לימוד (לימודים) ; subject / area of study ; der limed (limudem)
+װאָס מײנסטו? ; what do you think? ; vos meynstu?
+אַלע מאָל ; every time ; ale mol
