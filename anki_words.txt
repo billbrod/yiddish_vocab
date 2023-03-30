@@ -299,7 +299,7 @@
 װיפֿל גראַד ; what temperature ; vifl grad (lit. how many degrees?)
 דערפֿאַר ; therefore ; derfar
 דאָרט ; there ; dort
-איך גײ נישט אין דראָסן ; I don't go outside ; ikh gey nisht in droysn
+איך גײ נישט אין דרױסן ; I don't go outside ; ikh gey nisht in droysn
 די גאַנצע צײַט ; all the time ; di gantse tsayt
 איך בלײַב אין בעט ; I stay in bed ; ikh blayb in bet
 אָפּטימיסטיש ; optimistic ; optimistish
