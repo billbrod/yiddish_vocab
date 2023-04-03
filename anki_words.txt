@@ -269,7 +269,7 @@
 דאָס קיכל(עך) ; cookie ; dos kikhl(ekh)
 נעמען ; to take ; nemen
 נײטראַל ; neuter (gramatically, adjective) ; neytral
-דער טאָפּ (טעפּ) ; cup ; der top (tep)
+דאָס טעפּל(עך) ; cup ; dos tepl(ekh)
 די אָראַנזשענע העפֿט ; the orange workbook ; di oranzhene heft (note the extra ענע-, not ע-)
 דאָס לילאַ פּאַפּיר ; the purple paper ; dos lila papir (note lila never changes, same with פּערפּל)
 דער ראָזעװער בלײַער ; the pink pencil ; der rozever blayer (note, adds ר-, not ער-)
@@ -414,3 +414,49 @@
 טײל פֿון ; part of ; teyl fun
 אײדער ; before ; eyder
 דער יום-טובֿ (יום-טובֿים) ; major religious holiday ; der yontev (yontoyvem)
+פֿאַרגלײַכן ; to compare ; farglaykhn
+נאָכמיטאָג ; afternoon ; nokhmitog
+פֿרעמדע מענטשן ; strangers ; fremde mentshn
+פֿאַרדינען ; to earn (money) ; fardinen
+האָפֿנטלעך ; hopefully ; hofntlekh
+דער מיטאַרבעטער(ס) ; coworker ; der mitarbeter(s)
+ער מאַכט אַ טומל ; he makes a ruckus ; er makht a tuml
+נײַן אַזײגער ; nine o'clock ; nayn azeyger
+װײניק ; little (opposite of "a lot", negative implication) ; veynik
+אַ מאָל ; sometimes (e.g., "you get up early?" "sometimes") ; a mol
+בלײַבן ; to remain ; blaybn
+װאָס זשע װיללסטו? ; *what* do you want? (emphatic) ; vozhe viltsu?
+דער שטײן(ער) ; stone ; der shteyn(er)
+די תּורה ; Torah ; di toyre
+לערנען תּורה ; to study Torah ; lernen toyre
+בײַם סוף פֿון ליד ; at the end of the song ; baym sof fun lid
+אױסקלײַבן ; to choose / select ; oysklaybn (konverb)
+פֿאַלן ; to fall ; faln
+זעלטן ; rare ; zeltn
+פּסח ; Passover ; peysekh
+מער װײניקער ; more or less, approximately ; mer veyniker
+פֿאַרנומען ; busy ; farnumen
+גרײטן ; to prepare ; gretyn
+דער אַראָסרעד(ן) ; pronunciation ; der aroysred(n)
+קאָנטראָלירן ; to check ; kontrolirn
+איבערחזרן ; to review ; iberkhazrn (konverb)
+פֿױל ; lazy ; foyl
+לערנען זיך ; to study / learn ; lernen zikh (verb in "zikh" is more like a schwa, because it's unstressed)
+װערן ; to become ; vern
+אין דער פֿרי לערנט ער זיך כעמיע ; in the morning he studies chemistry ; in der fri lernt er zikh khemye
+ער לערנט זיך נישט כעמיע ; he doesn't study chemistry ; er lernt zikh nisht khemye
+אין דער פֿרי לערנט זיך דער קלוגער סטודענט כעמיע ; the clever student studies chemistry in the morning ; in der fri lernt zikh der kluger student khemye
+כּמעט אַלץ ; almost anything ; kemat alts
+פֿליסיק ; fluent ; flisik
+װי מעגלעך ; as possible ; vi meglekh
+פֿאַרשטומט ; muted (e.g., on zoom) ; farshtumt
+מענ פּראַװעט אַ סדר ; people celebrate/conduct a seyder ; men pravet a seyder
+די הגדה (הגדות) ; haggadah ; di hagode (hagodes)
+דער קשיא (קסיות) ; religious or philosophical question (e.g., the four questions in the Passover seder) ; di kashes (kashes)
+די שאלה (שאלות) ; question of ritual, especially of Halakha ; di shayle (shayles)
+דער כּוס (כּוסות) ; cup (loshn-koydesh) ; der kos (koyses)
+דער חמץ ; chametz (food with leavning forbidden during Passover) ; der khomets
+די דאָזיקע נאַכט ; this very night ; di dozike nakht
+מיר מעגן עסן ; we may eat ; mir megn esn
+מעגן ; to be allowed to, to be possible that ; megn
+דאָס גרינס(ן) ; vegetable ; der grins(n)
