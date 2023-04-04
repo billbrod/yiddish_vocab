@@ -455,8 +455,36 @@
 דער קשיא (קסיות) ; religious or philosophical question (e.g., the four questions in the Passover seder) ; di kashes (kashes)
 די שאלה (שאלות) ; question of ritual, especially of Halakha ; di shayle (shayles)
 דער כּוס (כּוסות) ; cup (loshn-koydesh) ; der kos (koyses)
-דער חמץ ; chametz (food with leavning forbidden during Passover) ; der khomets
+דער חמץ ; chametz (food with leavening that is forbidden during Passover) ; der khomets
 די דאָזיקע נאַכט ; this very night ; di dozike nakht
 מיר מעגן עסן ; we may eat ; mir megn esn
 מעגן ; to be allowed to, to be possible that ; megn
 דאָס גרינס(ן) ; vegetable ; der grins(n)
+צוריקגײן ; to go back ; tsurikgeyn (konverb)
+איך גײ צוריק ; I go back ; ikh gey tsurik (konverb)
+איך גײ נישט צוריק ; I don't go back ; ikh gey nisht tsurik (konverb)
+צוריק ; back (adverbial complement for konverbs) ; tsurik
+אַרױס ; out (adverbial complement for konverbs) ; aroys
+אַװעק ; away (adverbial complement for konverbs) ; avek
+אַרײַן ; in (adverbial complement for konverbs) ; arayn
+שמעקן ; to smell ; shmekn
+דער חבֿר(ים) / די חבֿרטע(ס) ; friend, buddy, (communist) comrade (masculine / feminine) ; der khaver (khaveyrem) / di khaverte(s)
+דער צימער(ן) ; room (on the smaller side, e.g., office or bedroom) ; der tsimer(n)
+דער זאַל(ען) ; room (on the larger side, e.g., hall or auditorium) ;der zal(en)
+אָנהײבן ; to begin ; onheybn (konverb), always followed by infinitive
+אױפֿהערן ; to stop ; ufhern (konverb), always followed by infinitive
+איך הײב אָן שרײַבן ; I start writing ; ikh heyb on shraybn
+איך הײב נישט אָן שרײַבן ; I don't start writing ; ikh heyb nisht on shraybn
+איך הערן אױף שרײַבן ; I stop writing ; ikh hern uf shraybn
+איך הערן נישט אױף שרײַבן ; I don't stop writing ; ikh hern nisht uf shraybn
+אַרױסגײן פֿון... ; to go out of the... ; aroysgeyn fun... (konverb)
+צוריקקומען אין... ; to come back into the... ; tsurikkumen in... (konverb)
+אַרײַנלײגן ; to put in ; araynleygn (konverb)
+דאָ ; here ; do
+אַרױסנעמען ; to take out ; aroysnemen (konverb)
+װער ; who ; ver
+װאָס ; what ; vos
+װאַסער(ע) ; which ; vaser(e)
+װוּ ; where ; vu
+װי ; how ; vi
+פֿון װאַנען ; from where ; fun vanen
