@@ -503,5 +503,5 @@
 עס געפֿעלט אײַך דאָס ליד? ; do you enjoy the song? ; es gefelt aykh dos lid?
 עס געפֿעלט מיר דאָס ליד / דאָס ליד געפֿעלט מיר ; I enjoy the song ; es gefelt mir dos lid / dos lid gefelt mir
 באַלײדיקן ; to insult / offend ; baleydikn
-באַלײדיקן (זיך) ; to take offense ; baleydikn zikh
+באַלײדיקן זיך ; to take offense ; baleydikn zikh
 מאַראַן ; Marrano (Sephardic Jews who pretended to convert to Christianity during Spanish Inquisition) ; maran
