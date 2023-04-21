@@ -575,5 +575,5 @@
 אַכט[ע/ער] ; eighth ; akht[e/er] (declines with adjective endings)
 נײַנט[ע/ער] ; ninth ; naynt[e/er] (declines with adjective endings)
 צענט[ע/ער] ; tenth ; tsent[e/er] (declines with adjective endings)
-עלפֿט[ע/ער] ; eleventh ; elft[e/er] (declines with adjective endings; add ט- to end of cardinal numbers from 11 to 19)
-צװאַנציקסט[ע/ער] ; twentieth ; tsvantsikst[e/er] (declines with adjective endings; add סט- to end of cardinal numbers above 20)
+עלפֿט[ע/ער] ; eleventh ; elft[e/er] (declines with adjective endings, add ט- to end of cardinal numbers from 11 to 19)
+צװאַנציקסט[ע/ער] ; twentieth ; tsvantsikst[e/er] (declines with adjective endings, add סט- to end of cardinal numbers above 20)
