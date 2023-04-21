@@ -520,3 +520,60 @@
 שװײַגן ; to keep quiet, to be silent ; shvaygn
 די האָר ; hair ; hor (diminutive הערל)
 פֿאַרגעסן ; to forget ; fargesn
+איך האָב אױך / זײער ליב צו לײענען ; I also/very like to read ; ikh hob oykh / zeyer lib tsu leyenen
+ער װעט װערן אַ פּילאָט ; he will become a pilot ; er vet vern a pilot
+נעם, נאַ דיר ; here (you) take it (said when handing something to somebody) ; nem, na dir
+געבן ; to give ; gebn
+אױף אַ קול ; out loud (e.g., "read out loud") ; af a kol
+פּרוּװן ; to try, to attempt ; pruvn
+אַרנטלעך ; honest ; orntlekh
+צופֿרידן ; glad, pleased, satisfied, content ; tsufridn
+שטאָלץ ; proud ; shtolts
+דער טײַטש(ן) ; meaning (of words) ; taytsh(n)
+דער קוכן(ס) ; cake ; der kukhn(s)
+ריכטיק ; correct, appropriate (applies to a statement, not the person who makes the statement) ; rikhtik
+שעמן זיך ; to be embarrassed or self-conscious ; shemn zikh
+ערגער װי ; worse than ... ; erger vi ...
+בעסער װי ; better than ... ; beser vi ...
+גרעסער װי ; bigger than .... ; greser vi ...
+קלענער װי ; smaller than ... ; klener vi ...
+זײַ(ט) באַגריסן ; welcome to (be greeted to) ... ; zay(t) bagrisn
+גאָרנישט ; nothing ; gornisht
+דאָס שטיק(ער) ; piece (of something), act ; dos shtik
+דער פּאַרשױן(ען) ; person, personage ; der parshoyn(en)
+דער מענטש איז דער בעסטער ; the person is the best ; der mentsh iz der bester
+די בעסטע װײַב ; the best wife ; di beste vayb
+די הױכסטע פֿרױ ; the tallest woman ; di hoykhste froy
+דער הױכסטער מענטש ; the tallest man ; der hoykhster mentsh
+עלף ; eleven ; elf
+צװעלף ; twelve ; tsvelf
+דרײַצן ; thirteen ; draytsn
+פֿערצן ; fourteen ; fertsn
+פֿופֿצן ; fifteen ; fuftsn
+זעכצן ; sixteen ; zekhtsn
+זיבעצן ; seventeen ; zibetsn
+אַכצן ; eighteen ; akhtsn
+נײַנצן ; nineteen ; nayntsn
+צװאַנציק ; twenty ; tsvantsik
+דרײַסיק ; thirty ; draysik
+פֿערציק ; fourty ; fertsik
+פֿופֿציק ; fifty ; fuftsik
+זעכציק ; sixty ; zekhtsik
+זיבעציק ; seventy ; zibetsik
+אַכציק ; eighty ; akhtsik
+נײַנציק ; ninety ; nayntsik
+הונדערט ; hundred ; hundert
+טױזנט ; thousand ; toyznt
+מיליאָן ; million ; milion
+ערשט[ע/ער] ; first ; ersht[e/er] (declines with adjective endings)
+צװײט[ע/ער] ; second ; tsveyt[e/er] (declines with adjective endings)
+דריט[ע/ער] ; third ; drit[e/er] (declines with adjective endings)
+פֿערט[ע/ער] ; fourth ; fert[e/er] (declines with adjective endings)
+פֿינפֿט[ע/ער] ; fifth ; finft[e/er] (declines with adjective endings)
+זעקסט[ע/ער] ; sixth ; zekst[e/er] (declines with adjective endings)
+זיבעט[ע/ער] ; seventh ; zibet[e/er] (declines with adjective endings)
+אַכט[ע/ער] ; eighth ; akht[e/er] (declines with adjective endings)
+נײַנט[ע/ער] ; ninth ; naynt[e/er] (declines with adjective endings)
+צענט[ע/ער] ; tenth ; tsent[e/er] (declines with adjective endings)
+עלפֿט[ע/ער] ; eleventh ; elft[e/er] (declines with adjective endings; add ט- to end of cardinal numbers from 11 to 19)
+צװאַנציקסט[ע/ער] ; twentieth ; tsvantsikst[e/er] (declines with adjective endings; add סט- to end of cardinal numbers above 20)
