@@ -577,3 +577,28 @@
 צענט[ע/ער] ; tenth ; tsent[e/er] (declines with adjective endings)
 עלפֿט[ע/ער] ; eleventh ; elft[e/er] (declines with adjective endings, add ט- to end of cardinal numbers from 11 to 19)
 צװאַנציקסט[ע/ער] ; twentieth ; tsvantsikst[e/er] (declines with adjective endings, add סט- to end of cardinal numbers above 20)
+באַזוכן ; to visit ; bazukhn (synonym: קומען צו גאַסט)
+באַרעדן ; to talk trash ; baredn
+דאָס געװיקס(ן) ; plant ; dos geviks(n)
+צוהערן זיך ; to listen ; tsuhern zikh (konverb)
+פֿאָרקומען ; to occur ; forkumen (konverb)
+איך הער זיך צו צו דער רעקאָרדירונג ; I listen to the recording ; ikh her zikh tsu tsu der rekordirung
+איך עפֿן דעמ גרױסן פֿענצטער ; I open the big window ; ikh efn dem groysn fentster
+דער פּאָמידאָר(ן) ; tomato ; der pomidor(n)
+מאכל ; food, meal, dish ; maykhl
+געשמאַק ; tasty ; geshmak
+דער פֿרישטיק(ן) ; breakfast ; der frishtik(n)
+דער מיטאָג(ן) ; lunch ; der mitog(n)
+דאָס אָװנטברױט(ן) ; supper ; dos ovntbroyt
+שמײַסן ; to strike, to whip ; shaysn
+בײַסן ; to bite ; baysn
+שעכטן ; to slaughter ; shekhtn
+טײטן ; to kill ; teytn
+רײַסן ; to pull, to tear ; raysn
+שיקן ; to send ; shikn
+זאָלן ; to ought to, should (signals subjunctive mood) ; zoln (followed by infinitive)
+מלאך-המװת ; angel of death ; malakhaoves
+דער װאַלד (װעלדער) ; forest ; der vald (velder)
+ברענען ; to burn, to be on fire ; brenen
+לעשן ; to quench, to extinguish ; leshn
+די בהמה (בהמות) ; cow, animal, brute, imbecile ; di beheyme(s)
