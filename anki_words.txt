@@ -483,7 +483,7 @@
 אַרױסנעמען ; to take out ; aroysnemen (konverb)
 װער ; who ; ver
 װאָס ; what ; vos
-װאַסער(ע) ; which ; vaser(e)
+װאָסער(ע) ; which ; voser(e)
 װוּ ; where ; vu
 װי ; how ; vi
 פֿון װאַנען ; from where ; fun vanen
@@ -597,8 +597,45 @@
 רײַסן ; to pull, to tear ; raysn
 שיקן ; to send ; shikn
 זאָלן ; to ought to, should (signals subjunctive mood) ; zoln (followed by infinitive)
-מלאך-המװת ; angel of death ; malakhaoves
+מלאך-המװת ; angel of death ; malakhamoves
 דער װאַלד (װעלדער) ; forest ; der vald (velder)
 ברענען ; to burn, to be on fire ; brenen
 לעשן ; to quench, to extinguish ; leshn
 די בהמה (בהמות) ; cow, animal, brute, imbecile ; di beheyme(s)
+איך בין געגאַנגען ; I went ; ikh bin gegangen
+איך האָב געקאָכט קאַשע ; I cooked kasha ; ikh hob gekokht kashe
+איך בין געפֿאָרן קײן באָסטאָן ; I traveled to Boston ; ikh hob geforn keyn Boston
+איך האָב נישט געזונגען קײן ליד ; I didn't sing a song ; ikh hob nisht gezungen keyn lid
+געהאַט ; past participle of האָבן ; gehat
+געהײסן ; past participle of הײסן ; geheysn
+געװוּסט ; past participle of װיסן ; gevust
+געװאָלט ; past participle of װעלן ; gevolt
+געזונגען ; past participle of זינגען ; gezungen
+געזען ; past participle of זען ; gezen
+געטאָן ; past participle of טאָן ; geton
+גענומען ; past participle of נעמען ; genumen
+געגעסן ; past participle of עסן ; gegesn
+געצונדן ; past participle of צינדן ; getsundn
+געשריבן ; past participle of שרײַבן ; geshribn
+געבליבן ; past participle of בלײַבן ; geblibn
+געװאָרן ; past participle of װערן ; gevorn
+געװען ; past participle of זײַן ; geven
+געזעסן ; past participle of זיצן ; gezesn
+געלאָפֿן ; past participle of לױפֿן ; gelofn
+געלעגן ; past participle of ליגן ; gelegn
+געשטאַנען ; past participle of שטײן ; geshtanen
+די שעה(ן) ; hour ; sho(en)
+איך האָב געלערנט צװײ שעה ; I taught for two hours ; ikh hob gelernt tsvey sho
+דער װעש ; laundry ; der vesh
+אַ פּאָר ; several, a couple ; a por
+נאָך דעם ; after that ; nokh dem
+צוריקגעגאַנגען ; past participle of צוריקגײן ; tsurikgegangen
+די טעמע(ס) ; theme, topic (of talk or artistic piece) ; di teme(s)
+הוליען ; to party, to be loud and boisterous in enjoyment ; hulyen
+דאָס עסן ; food ; dos esn
+געפֿינען ; to find ; gefinen
+געפֿונען ; past participle of געפֿינען ; gefunen
+דערנאָך ; therafter, subsequently, then ; dernokh
+דורך ; through, via, by means of ; durkh
+דער בריװ(ן) ; letter, message ; der briv
+דער עמער(ס) ; bucket ; der emers
