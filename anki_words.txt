@@ -93,11 +93,11 @@
 עפּעס ; something ; epes
 עמעצער ; someone ; emetser
 קײנער ; nobody ; keyner
-קײנער יז נישטאָ ; there is no one ; keyner iz nishto
+קײנער איז נישטאָ ; there is no one ; keyner iz nishto
 טונקל בלױ ; dark blue ; tunkl bloy
-עס יז דאָ אַ ; there is a ; es iz do a...
-עס יז נישטאָ קײן ; there isn't a ; es iz nishto keyn...
-עס יז דאָ אַ בוך דאָ ; there is a book here ; es iz do a bukh do
+עס איז דאָ אַ ; there is a ; es iz do a...
+עס איז נישטאָ קײן ; there isn't a ; es iz nishto keyn...
+עס איז דאָ אַ בוך דאָ ; there is a book here ; es iz do a bukh do
 לעבן ; near / next to ; lebn
 מער עקזאַמען װי איך ; more exams than me ; mer ekzamen vi ikh (NB: ikh, not mir)
 אַ פּיראַט איז װי אַ פּילאָט אױפֿן ים ; a pirate is like a pilot on the sea ; a pirat iz vi a pilot afn yam
@@ -248,7 +248,7 @@
 זי האָט געהאַט זיבן טעכטער ; she had seven daughers ; zi hot gehat zibn tekhter
 דאָס מיטקינד(ער) ; sibling ; dos mitkind(er)
 דאָס בין איך ; this is me (e.g., when showing a picture) ; dos bin ikh
-דאָס יז אַלץ ; that's all ; dos iz alts
+דאָס איז אַלץ ; that's all ; dos iz alts
 די קינדער זײַנען אַדאָפּטירט ; the children are adopted ; di kinder zaynen adoptirt
 װײנען ; to cry ; veynen
 לױפֿן ; to run ; loyfn
