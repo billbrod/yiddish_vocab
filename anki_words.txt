@@ -311,7 +311,7 @@
 אַריסטאָקראַטיש ; aristocratic ; aristokratish
 רעליגיעז ; religious ; religiez
 דער געדאַנק(ען) ; thought, idea ; der gedank(en)
-ער טוט אַ רױטע העמד ; he wears a red shirt ; er tut a roite hemd
+ער טראָג אַ רױטע העמד ; he wears a red shirt ; er trog a roite hemd
 דער לײענער ; reader (masculine) ; der leyener
 דער שרײַבער ; writer (masculine) ; der shrayber
 די רעדערין ; speaker (feminine) ; di rederin
@@ -639,3 +639,34 @@
 דורך ; through, via, by means of ; durkh
 דער בריװ(ן) ; letter, message ; der briv
 דער עמער(ס) ; bucket ; der emers
+דער מאַנטל(ען) ; coat ; der mantl(en)
+צײכענען ; to draw ; tseykhenen
+די צײכענונג(ען) ; drawing ; di tseykhenung(en)
+די סיבה (סיבות) ; reason ; di sibe(s)
+די סחורה (סחורות) ; merchandise, wares ; di skhoyre(s)
+װײַזן ; to show, point out ; vayzn
+די קהילה (קהילות) ; (Jewish) community ; di kehile(s)
+דער מעקער(ס) ; erase ; der meker(s)
+דער אױסזען ; appearance ; der oyszen
+אױסזען ; to look, seem ; oyszen (with װי, "like")
+די באָרד (בערד) ; beard ; di bord (berd)
+דער טוך (טיכער) ; cloth ; der tukh (tikher)
+דאָס טיכל(עך) ; kerchief, headscarf ; dos tikhl(ekh)
+איך טראָג ברילן ; I wear glasses ; ikh trog briln
+די װאָנצעס ; moustache ; di vontses (always plural)
+דער הוט (היט), דער קאַפּעליוש ; hat ; der hut (hit), der kapelyush (brim all the way around, diminutive היטל if not)
+די ברילן ; glasses ; di briln
+די זומער-שפּענקלעך ; freckles ; di zumer-shpenklekh
+די יאַרמלקע(ס) ; yarmulke ; di yarmlke
+די פּאה (פּאות) ; sidelock ; di peye(s)
+דאָס לאַשיק-עקל ; ponytail ; dos lashik-ekl
+געקרײַזלט ; curly (hair) ; gekrayzlt
+גלאַט ; straight (hair) ; glat
+מיר זען נאָר אײן אױרינגל ; we see only one earring ; mir zen nor eyn oyringl
+דער דיבוק(ים) ; spirit that posses a living person ; der dibek (dibukim)
+דער מעשׂה (מעשׂיות/מעשׂים) ; story, tale, narrative ; der mayse (mayses / maysem)
+די דערצײלונג(ן) ; story, tale ; di dertseylung(n)
+מעסטן ; to measure ; mestn
+אַ שאָד ; too bad, what a pity ; a shod
+דאָס שפּילצײַג ; toy ; doys shpiltsayg
+שטעלן זיך פֿאָר ; to imagine ; shteln zikh for
