@@ -604,7 +604,7 @@
 די בהמה (בהמות) ; cow, animal, brute, imbecile ; di beheyme(s)
 איך בין געגאַנגען ; I went ; ikh bin gegangen
 איך האָב געקאָכט קאַשע ; I cooked kasha ; ikh hob gekokht kashe
-איך בין געפֿאָרן קײן באָסטאָן ; I traveled to Boston ; ikh hob geforn keyn Boston
+איך בין געפֿאָרן קײן באָסטאָן ; I traveled to Boston ; ikh bin geforn keyn Boston
 איך האָב נישט געזונגען קײן ליד ; I didn't sing a song ; ikh hob nisht gezungen keyn lid
 געהאַט ; past participle of האָבן ; gehat
 געהײסן ; past participle of הײסן ; geheysn
