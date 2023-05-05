@@ -311,7 +311,7 @@
 אַריסטאָקראַטיש ; aristocratic ; aristokratish
 רעליגיעז ; religious ; religiez
 דער געדאַנק(ען) ; thought, idea ; der gedank(en)
-ער טראָג אַ רױטע העמד ; he wears a red shirt ; er trog a roite hemd
+ער טראָגט אַ רױט העמד ; he wears a red shirt ; er trogt a roit hemd
 דער לײענער ; reader (masculine) ; der leyener
 דער שרײַבער ; writer (masculine) ; der shrayber
 די רעדערין ; speaker (feminine) ; di rederin
@@ -606,35 +606,35 @@
 איך האָב געקאָכט קאַשע ; I cooked kasha ; ikh hob gekokht kashe
 איך בין געפֿאָרן קײן באָסטאָן ; I traveled to Boston ; ikh bin geforn keyn Boston
 איך האָב נישט געזונגען קײן ליד ; I didn't sing a song ; ikh hob nisht gezungen keyn lid
-געהאַט ; past participle of האָבן ; gehat
-געהײסן ; past participle of הײסן ; geheysn
-געװוּסט ; past participle of װיסן ; gevust
-געװאָלט ; past participle of װעלן ; gevolt
-געזונגען ; past participle of זינגען ; gezungen
-געזען ; past participle of זען ; gezen
-געטאָן ; past participle of טאָן ; geton
-גענומען ; past participle of נעמען ; genumen
-געגעסן ; past participle of עסן ; gegesn
-געצונדן ; past participle of צינדן ; getsundn
-געשריבן ; past participle of שרײַבן ; geshribn
-געבליבן ; past participle of בלײַבן ; geblibn
-געװאָרן ; past participle of װערן ; gevorn
-געװען ; past participle of זײַן ; geven
-געזעסן ; past participle of זיצן ; gezesn
-געלאָפֿן ; past participle of לױפֿן ; gelofn
-געלעגן ; past participle of ליגן ; gelegn
-געשטאַנען ; past participle of שטײן ; geshtanen
+געהאַט ; past participle of האָבן ; gehat (with האָבן)
+געהײסן ; past participle of הײסן ; geheysn (with האָבן)
+געװוּסט ; past participle of װיסן ; gevust (with האָבן)
+געװאָלט ; past participle of װעלן ; gevolt (with האָבן)
+געזונגען ; past participle of זינגען ; gezungen (with האָבן)
+געזען ; past participle of זען ; gezen (with האָבן)
+געטאָן ; past participle of טאָן ; geton (with האָבן)
+גענומען ; past participle of נעמען ; genumen (with האָבן)
+געגעסן ; past participle of עסן ; gegesn (with האָבן)
+געצונדן ; past participle of צינדן ; getsundn (with האָבן)
+געשריבן ; past participle of שרײַבן ; geshribn (with האָבן)
+געבליבן ; past participle of בלײַבן ; geblibn (with זײַן)
+געװאָרן ; past participle of װערן ; gevorn (with זײַן)
+געװען ; past participle of זײַן ; geven (with זײַן)
+געזעסן ; past participle of זיצן ; gezesn (with זײַן)
+געלאָפֿן ; past participle of לױפֿן ; gelofn (with זײַן)
+געלעגן ; past participle of ליגן ; gelegn (with זײַן)
+געשטאַנען ; past participle of שטײן ; geshtanen (with האָבן)
 די שעה(ן) ; hour ; sho(en)
 איך האָב געלערנט צװײ שעה ; I taught for two hours ; ikh hob gelernt tsvey sho
 דער װעש ; laundry ; der vesh
 אַ פּאָר ; several, a couple ; a por
 נאָך דעם ; after that ; nokh dem
-צוריקגעגאַנגען ; past participle of צוריקגײן ; tsurikgegangen
+צוריקגעגאַנגען ; past participle of צוריקגײן ; tsurikgegangen (with האָבן)
 די טעמע(ס) ; theme, topic (of talk or artistic piece) ; di teme(s)
 הוליען ; to party, to be loud and boisterous in enjoyment ; hulyen
 דאָס עסן ; food ; dos esn
 געפֿינען ; to find ; gefinen
-געפֿונען ; past participle of געפֿינען ; gefunen
+געפֿונען ; past participle of געפֿינען ; gefunen (with האָבן)
 דערנאָך ; therafter, subsequently, then ; dernokh
 דורך ; through, via, by means of ; durkh
 דער בריװ(ן) ; letter, message ; der briv
@@ -670,3 +670,45 @@
 אַ שאָד ; too bad, what a pity ; a shod
 דאָס שפּילצײַג ; toy ; doys shpiltsayg
 שטעלן זיך פֿאָר ; to imagine ; shteln zikh for
+דערצײלן ; to tell ; dertseyln
+דערצײלט ; past participle of דערצײלן ; dertseylt (with האָבן)
+אַנטלױפֿן ; to escale, to flee ; antloyfn
+אַנטלאָפֿן ; past participle of אַנטלױפֿן ; antlofn (with זײַן)
+געדענקט ; past participle of געדענקען ; gedenkt (with האָבן)
+פֿאַרשטאַנען ; past participle of פֿאַרשטײן ; farshtanen (with האָבן)
+איבערבײַסן ; to eat breakfast ; iberbaysn (konverb)
+איבערגעביסן ; past participle of איבערבײַסן ; ibergebisn (with האָבן)
+מיך ; accusative form of איך ; mikh
+דיך ; accusative form of דו ; dikh
+אים ; accusative form of ער ; im
+זי ; accusative form of זי ; zi
+עס ; accusative form of עס ; es
+אונדז ; accusative form of מיר ; undz
+אײַך ; accusative form of איר ; aykh
+זײ ; accusative form of זײ ; zey
+װעמען ; accusative form of װער ; vemen
+מיר ; dative form of איך ; mir
+דיר ; dative form of דו ; dir
+אים ; dative form of ער ; im
+איר ; dative form of זי ; ir
+אים / דעם ; dative form of עס ; im / dem
+אונדז ; dative form of מיר ; undz
+אײַך ; dative form of איר ; aykh
+זײ ; dative form of זײ ; zey
+װעמען ; dative form of װער ; vemen
+איך האָב אים ; I have it (masc.) ; ikh hob im
+איך האָב אים נישט ; I don't have it (masc.) ; ikh hob im nisht
+קושן (זיך); to kiss (each other); kushn (zikh)
+לעצט[ע/ער] ; last ; letst[e/er] (declines with adjective endings)
+דער קראָליק(עס) ; rabbit ; der krolik(es)
+קיצלן ; to tickle ; kitsln
+מיר װינטשן זײ מזל-טובֿ ; we wish them congratulations ; mir vintshn zey mazl-tov
+אין צװײ װאָכן אַרום ; in two weeks ; in tsvey vokhn arum
+פֿינקלען ; to twinkle ; finklen
+גלאַנצן ; to shine, gleam ; glantsn
+איך האָב דיך ליב ; I like you ; ikh hob dikh lib
+ער הערט דעם רבין ; he hears the rabbi ; er hert dem rebn
+איך האָב װעלװלען פֿײַנט ; I hate Velvl ; ikh hob Velven faynt
+מיר האָבן נאָך אַ פּאָר מינוט ; we have only a couple minutes ; mir hobn nokh a por minut
+איגנאָרירן ; to ignore ; ignorirn
+כּיבוד-אָבֿ-ואם ; honor one's father and mother ; kibed-ov-voeym
