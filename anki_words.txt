@@ -712,3 +712,54 @@
 מיר האָבן נאָך אַ פּאָר מינוט ; we have only a couple minutes ; mir hobn nokh a por minut
 איגנאָרירן ; to ignore ; ignorirn
 כּיבוד-אָבֿ-ואם ; honor one's father and mother ; kibed-ov-voeym
+זי שרײַבט אַ בריװ דער אַלטער באָבע ; she wrote a letter to the old grandma ; zi shraybt a briv der alter bobe (NB: no preposition, fem. dative looks like masc. nom.)
+איך גײ אין קינאָ מיט דער נײַער חבֿרטע ; I went to the movies with the new friend ; ikh gey in kino mit der nayer haverte (NB: fem. dative looks like masc. nom.)
+אין דער אַלטער שטאָט זײַנען דאָ אַ סך רעסטאָראַנטן ; in the old city, there are a lot of restaurants ; in der alter shtot zaynen do a sakh restorantn (NB: city is fem.)
+װאָס האָט פּאַסירט בײַ אײַך אין די פֿאַרגאַנגענע פּאָר טעג? ; what's happened in the past several days been for you? ; vos hot pasirt bay aykh in di fargangene por teg?
+װאָס איז געשען בײַ אײַך? ; what's happened with you? ; vos iz geshen bay aykh?
+געשען ; to happen, occur ; geshen (+ mit [object] = to)
+דער בילעט(ן) ; ticket ; der bilet(n)
+דער מיטגלידער(ס) ; member (of an organization) ; der mitglider(s)
+באַזונדער ; separate, special ; bazunder
+איך האָב נישט געקענט קומען ; I couldn't come ; ikh hob nisht gekent kumen (NB: קענען gets used like English "can" to mean "able to", like "everyone can come")
+גרײטן צום טיש ; to set the table ; greytn tsum tish
+דער אַרבוז(ן) ; watermelon ; der arbuz(n)
+די טרוסקאַפֿקע(ס) ; strawberry ; di truskafke(s)
+די מאַלינע(ס) ; raspberry ; di maline(s)
+די פֿלױם(ען) ; plum ; di floym(en)
+די פֿערשקע(ס) ; peach ; di fershke(s)
+די קאַרש(ן) ; sweet cherry ; di karsh(n)
+די װײַנטרױב(ן) ; grape ; di vayntroyb(n)
+דער מאַראַנץ(ן) ; orange ; der marants(n)
+דער אַנאַנאַס(ן) ; pineapple ; der ananas(n)
+די פֿרוכט(ן) ; fruit ; di frukht(n)
+די שאַלאַטן ; lettuce ; di shalatn (plural only)
+די קוקוזע ; corn ; di kukuruze (singular only)
+דער קנאָבל(ען) ; garlic ; der knobl(en)
+די ציבעלע(ס) ; onion ; di tsibele(s)
+דאָס קרױט(ן) ; cabbage ; dos kroyt(n)
+דער בוריק(עס) ; beet ; der borik(es)
+די מער(ן) ; carrot ; di mer(n)
+די אונגערקע(ס) ; cucumber ; di ungerke(s)
+אין מיטן ; in the middle ; in mitn
+די רעטשקע ; buckwheat ; di retshke (kasha refers to any cereal)
+דער לאָקש(ן) ; noodle, pasta ; der loksh(n)
+דאָס אײ(ער) ; egg ; dos ey(er)
+דער בױמל ; (cooking) oil ; der boyml
+די ראָזשינקע(ס) ; raisin ; di rozhinke(s)
+דער זאַפֿט(ן) ; juice ; der zaft(n)
+דער עסיק ; vinegar ; der esik
+דער אײַנגעמאַכטס ; jam, preserves ; der ayngemakhts
+דאָס עוף ; poultry ; dos of
+דאָס פֿלײש ; meat ; dos fleysh
+פֿלײשיק ; containing meat (adj) ; fleyshik
+די מילך ; milk ; di milkh
+מילכיק ; containing dairy (adj) ; milkhik
+פּאַרעװ ; containing neither meat nor milk ; parev
+די שפּײַז(ן) ; food ; di shpayz(n)
+פֿאַרשײדענע שפּײַזן ; assorted food ; farsheydene shpayzn
+שפּרײַז קראָם ; grocery store ; shpayz krom
+דער נוס (ניס) ; nut ; der nus (nis)
+דער רעטעך(ער) ; radish ; der retekh(er)
+אונטן ; below ; untn
+אױבן ; above ; oybn
