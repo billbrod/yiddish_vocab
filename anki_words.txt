@@ -672,7 +672,7 @@
 שטעלן זיך פֿאָר ; to imagine ; shteln zikh for
 דערצײלן ; to tell ; dertseyln
 דערצײלט ; past participle of דערצײלן ; dertseylt (with האָבן)
-אַנטלױפֿן ; to escale, to flee ; antloyfn
+אַנטלױפֿן ; to escape, to flee ; antloyfn
 אַנטלאָפֿן ; past participle of אַנטלױפֿן ; antlofn (with זײַן)
 געדענקט ; past participle of געדענקען ; gedenkt (with האָבן)
 פֿאַרשטאַנען ; past participle of פֿאַרשטײן ; farshtanen (with האָבן)
@@ -734,11 +734,11 @@
 דער אַנאַנאַס(ן) ; pineapple ; der ananas(n)
 די פֿרוכט(ן) ; fruit ; di frukht(n)
 די שאַלאַטן ; lettuce ; di shalatn (plural only)
-די קוקוזע ; corn ; di kukuruze (singular only)
+די קוקורוזע ; corn ; di kukuruze (singular only)
 דער קנאָבל(ען) ; garlic ; der knobl(en)
 די ציבעלע(ס) ; onion ; di tsibele(s)
 דאָס קרױט(ן) ; cabbage ; dos kroyt(n)
-דער בוריק(עס) ; beet ; der borik(es)
+דער בוריק(עס) ; beet ; der burik(es)
 די מער(ן) ; carrot ; di mer(n)
 די אונגערקע(ס) ; cucumber ; di ungerke(s)
 אין מיטן ; in the middle ; in mitn
@@ -763,3 +763,47 @@
 דער רעטעך(ער) ; radish ; der retekh(er)
 אונטן ; below ; untn
 אױבן ; above ; oybn
+דער טעם(ים) ; flavor, taste ; der tam (tamem)
+אײביק ; eternal, forever, always ; eybik
+דער סוף-װאָך(ן) ; weekend ; der sof-vokhn
+די װעטשערע(ס) ; dinner ; di vetshere(s)
+געװײנלעך ; usual, common, normal ; geveynlekh
+דער געשעפֿט(ן) ; shop, business ; gesheft
+די רשימה(ת) ; list (noun) ; di reshime(s)
+די פּריפּראַװעס ; seasonings ; di pripraves
+די זאַלץ ; salt ; di zalts
+די מאַסלינע(ס) ; olive (fruit) ; di masline(s)
+די קאָקאָס(ן) ; coconut ; di kokos(n)
+דאָס רביניסל(עך), דאָס ערד-ניסל(עך) ; peanut ; dos rebe-nisl(ekh), dos erd-nisl(ekh)
+דער סטאַשקע-שמיר ; peanut butter ; der stashke-shmir
+די שניטקע(ס) ; sandwich ; di shnitke(s)
+סײַדן ; unless ; saydn
+דער האָבערגריץ קאַשע ; oatmeal ; der hobergrits-kashe
+די סמעטענע ; sour cream ; di smetene
+זײַן געמאַכט פֿון ; to be made from ; zayn gemakht fun
+פּשוט ; simple (uncomplicated (positive)) ; poshet
+פּראָסט ; simple (vulgar, unrefined, crude (pejorative)) ; prost
+דער פֿרידזשידער(ס), דער אײַזקאַסטן(ס) ; refrigerator ; der fridzhider(s), der ayskastn(s)
+די שיסל(ן) ; bowl, dish ; di shisl(n)
+דער ראָט(ן) ; council, soviet ; der rot(n)
+בעט אױף זײ ; asks for them ; bet af zey
+בעטן ; to request, to ask (a person) ; betn
+די יױך ; chicken broth ; di yoykh
+באַשערן ; to destine, to preordain, to lavish ; bashern
+דער גאָטעניו ; oh my God, God in heaven ; der gotenyu
+דער מעניו(ען) ; menu ; der menyu(en)
+דער גאַסט (געסט) ; guest (noun) ; der gast (gest)
+סתּם ; ordinary (adj), simply, merely, purposelessly (adv) ; stam
+סתּם אַזױ ; for no special reason ; stam azoy
+הונגעריק ; hungry ; hungerik
+זיכער ; certain (sure, positive, for sure) ; zikher
+ברײט-האַרציק ; open-hearted, generous ; breyt-hartsik
+ער װײסט װאָס איז גוט צום עסן ; he knows what's good for eating ; er veyst vos iz gut tsum esn
+פֿאַרבעטן געסט ; to invite guests ; farbetn gest
+װעלן ; to want (future auxiliary verb) ; veln
+איך װיל ; I want ; ikh vil
+דו װילסט ; you want ; du vilst
+ער װיל ; he wants ; er vil
+מיר װילן ; we want ; mir viln
+איר װילט ; you (pl.) want ; ir vilt
+זײ װילן ; they want ; zey viln
