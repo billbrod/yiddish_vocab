@@ -819,7 +819,7 @@
 דער עיקר ; mainly, principally, for the most part ; der iker
 מיר האָבן געבענקט נאָך אײַך ; we missed you ; mir hobn gebenkt nokh aykh
 בענקען ; to yearn, to long ; benken
-דער בנין(ים) ; building (noun) ; der bineyn (binyonim)
+דער בנין(ים) ; building (noun) ; der binyen (binyonim)
 װעלך ; which, who, that (pronoun) ; velkh (in meaning *which*, functions like adjective and declines)
 לײגן ; to lie (something down) ; leygn (איך לײג אים, ער ליגט)
 שטעלן ; to stand (something up) ; shteln (איך שטעל אים, ער שטײט)
@@ -836,3 +836,24 @@
 ער װײסט נישט מיט װאָס מען עסט עס ; he doesn't know what to do with it (food-related) ; er veyst nisht mit vos men est es
 ער װײסט נישט פֿון װאַנען װאַקסן די פֿיס ; he doesn't know what to do with it (body-related) ; er veyst nisht fun vanen vaksn di fis
 דער מאָלצײט(ן) ; meal (mealtime) ; der moltsayt(n)
+חוזק מאַכן ; to make fun of ; khoyzek makhn (periphrastic verb)
+דאָס האָלץ (העלצער) ; wood (material) ; dos holts (heltser)
+בחינם ; free of charge ; bekhinem
+װוּ פֿאָרט איר? ; where are you traveling? ; vu fort ir?
+דער מוזײ(ען) ; museum ; der muzey(en)
+די אַקטיװיטעט(ן) ; activity ; di aktivitet(n)
+דער גראַדואַנט(ן) / די גראַדואַנטקע(ס) ; graduate, alum ; der graduant(n) / di graduantke(s)
+דאָס געװאַנט(ן) ; cloth, fabric ; dos gevant(n), synonym with טוך
+דאָס גלאָז ; glass (material) ; dos gloz
+דער מעטאַל(ן) ; metal (material) ; der metal(n)
+דאָס פּאָרטצעלײַ ; porcelain (material) ; dos portselay
+דער פּלאַסטיק(ן) ; plastic (material) ; der plastik
+די גלאָז איז פֿון פּאָרצעלײַ ; the glass is made from porcelain ; di gloz iz fun portselay
+רעכטס פֿון די גלאָז ; right of the glass ; rekhts fun di gloz
+אױפֿן טיש, לינקס ; on the table, on the left ; afn tish, links
+אָט אַ דאָ ; there it is ; ot a do
+באַשאָפֿן ; to create ; bashofn
+דער װאָרצל(ען) ; root (plant, linguistics) ; der vortsl(en)
+דער צװײַג(ן) ; branch ; der tsvayg(n)
+דער פֿױגל (פֿײגל) ; bird ; der foygl (feygl)
+די ברכה (ברכות) ; blessing ; di brokhe(s)
