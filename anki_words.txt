@@ -846,7 +846,7 @@
 דאָס געװאַנט(ן) ; cloth, fabric ; dos gevant(n), synonym with טוך
 דאָס גלאָז ; glass (material) ; dos gloz
 דער מעטאַל(ן) ; metal (material) ; der metal(n)
-דאָס פּאָרטצעלײַ ; porcelain (material) ; dos portselay
+דאָס פּאָרצעלײַ ; porcelain (material) ; dos portselay
 דער פּלאַסטיק(ן) ; plastic (material) ; der plastik
 די גלאָז איז פֿון פּאָרצעלײַ ; the glass is made from porcelain ; di gloz iz fun portselay
 רעכטס פֿון די גלאָז ; right of the glass ; rekhts fun di gloz
@@ -857,3 +857,5 @@
 דער צװײַג(ן) ; branch ; der tsvayg(n)
 דער פֿױגל (פֿײגל) ; bird ; der foygl (feygl)
 די ברכה (ברכות) ; blessing ; di brokhe(s)
+די פֿראַגע(ס) ; question ; di frage(s)
+פֿרעגן ; to ask ; fregn
