@@ -140,7 +140,6 @@
 די קראָמ(ען) ; store ; krom
 אײַנגעבױגן ; bent-over ; ayngeboygn
  די משפּחה (משפּחות); family ; mishpokhe
-װילן ; to want ; viln
 לױט ; according to ; loyt
 װײס ניט קײנער ; no one knows ; veys nit keyner
 נישט געשטױגן, נישט געפֿלױגן ; preposterous (lit. didn't ascend, didn't fly) ; nisht geshtoygn, nisht gefloygn
@@ -866,7 +865,7 @@
 כּשר ; kosher ; kosher
 טרײף ; non-kosher ; treyf
 אָפּהיטן ; to keep, to protect, to observe (a holiday) ; ophitn
-די מיצוו (מיצווות) ; commandment ; di mitsve (mitsves)
+די מיצווה (מיצווות) ; commandment ; di mitsve (mitsves)
 אַזאַ (אַזעלכע) ; such, this kind of ; aza (azelkhe for plural)
 כּסדר ; continually, continuously, in a row ; keseyder
 די פֿאָרשונג(ען) ; research, study (noun) ; di forshung(en)
@@ -895,7 +894,7 @@
 ענלעך ; similar, alike ; enlekh
 דער קלױסטער(ס) ; church (esp. Catholic, house of worship) ; der kloyster(s)
 ספּעציעל ; special (adj), especially (adv) ; spetsyel
-די תּקופֿה (טקופֿות) ; season (quarter of year), era ; di tkufe(s)
+די תּקופֿה (תּקופֿות) ; season (quarter of year), era ; di tkufe(s)
 די מלחמה (מלחמות), די קריג(ן) ; war ; di milkhome(s), di krig(n)
 אַנטקעגן ; against, opposite, opposed to, versus ; antkegn
 אַנטקעגנשטעלן ; to place against ; antkegnshteln
