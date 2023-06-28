@@ -883,7 +883,7 @@
 סאַמע ; the very, true, genuine, pure ; same
 דער באַגריף(ן) ; concept, notion, idea ; der bagrif(n)
 דער תּוך ; core, essence ; der tokh
-קריסטלעך ; Christian ; kristlekh
+קריסטלעך ; Christian (adj) ; kristlekh
 די השׂגה (השׂגות) ; idea, concept, grasp, understanding ; di hasoge(s)
 אָנגענומען ; customary, accepted, conventional ; ongenumen
 כּדי ; so that, in order to ; kedey
@@ -902,7 +902,7 @@
 רודפֿן ; to persecute ; rudfn
 אַרײַננעמען ; to include, comprise ; araynnemen
 אַרום ; around ; arum (adverbial complement)
-דער קריסט(ן) ; Christian ; der krist(n)
+דער קריסט(ן) ; Christian (noun) ; der krist(n)
 דאָס קענטעניש(ן) ; knowledge ; dos kentenish
 דאָס שפּילעכל(עך) ; plaything ; dos shpilekhl(ekh)
 דער װערט(ן) ; value, worth ; der vert(n)
