@@ -939,7 +939,7 @@
 די עמאָציע(ס) ; emotion ; di emotsye(s)
 עמאָציאָנעל ; emotional ; emotsyonel
 (ען)די פֿאַרבינדונג ; connection, bond ; di farbindung
-לעצטנס ; recently, lately (in the recent past) ; letsnts
+לעצטנס ; recently, lately (in the recent past) ; letstns
 שטײגעריש ; customary, of everyday life ; shteygerish
 שטאָלצירן ; be proud (of), take pride (in) ; shtoltsirn
 דער ייִחוס ; lineage, ancestry, pedigree ; der yikhes
@@ -969,3 +969,23 @@
 וואָלט ; would, should, auxiliary for conditional mood ; volt (this verb does not inflect, except in contraction וואָלסטו)
 די פֿענאָמען(ען) ; phenomenon ; di fenomen(en)
 געהערן ; to belong to, to be part of ; gehern
+לכּבֿוד ; in honor of, for the sake of ; lekoved
+אַרױסלאָזן ; to emit, to release (film) ; aroyslozn
+די נאַראַציע(ס) ; narration ; di naratsye(s)
+באַגלײטן מיט ; to accompany with / be accompanied by (e.g., subtitles) ; bagleytn mit
+דאָס אונטערקעפּל(עך) ; subtitles ; dos unterkepl(ekh)
+דער זכּרון (זכרונות) ; memory ; der zikorns (zikhroynes)
+דער גאָון (גאונים) ; sage, genius ; der goen (geoynem)
+דאָס נפֿש(ות) ; soul ; dos nefesh (nefoshes), synonym with נשמה
+(דער) הרבֿ ; rabbi (title preceding name) ; (der) horov
+ע״ה / עליו השלום ; peace be upon him (used after name of dead person) ; olev hasholem
+אַמאָליק ; former, old-time ; amolik
+חב“ד ; Chabad ; khabad
+בשעת ; while ; beshas / beshays
+גנבֿענען ; to steal (take things illegally or move quietly) ; ganvenen
+באַקומען ; to receive, acquire ; bakumen
+די גרענעץ(ן) ; border, boundary ; di grenets(n)
+דער אתרוג(ים) ; citron (fruit) ; der esreg (esroygim)
+באַרימט ; famous, well-known ; barimt
+די קװאַליטעט(ן) ; quality (e.g., "of good quality") ; di kvalitet(n)
+געבן אַ קװעטש ; to click (on a computer) ; gebn a kvetsh
