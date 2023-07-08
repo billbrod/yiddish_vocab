@@ -989,3 +989,10 @@
 באַרימט ; famous, well-known ; barimt
 די קװאַליטעט(ן) ; quality (e.g., "of good quality") ; di kvalitet(n)
 געבן אַ קװעטש ; to click (on a computer) ; gebn a kvetsh
+איך גיב ; I give ; ikh gib
+דו גיסט ; you (sing.) give ; du gist
+ער גיט ; he gives ; er git
+מיר גיבן ; we give ; mir gibn
+איר גיט ; you (pl.) give ; ir git
+זײ גיבן ; they give ; zey gibn
+געגעבן ; past participle of געבן ; gegebn
