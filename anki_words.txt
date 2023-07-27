@@ -1032,7 +1032,7 @@
 די מינדערהײט(ן) ; minority ; di minderheyt(n)
 די באַפֿעלקערונג(ען) ; population ; di bafelkerung(en)
 געשװינד ; fast, quick ; geshvind
-אַראַײַנרעכענען ; to include ; araynrekhnen
+אַרײַנרעכענען ; to include ; araynrekhenen
 שטענדיק ; continual, everlasting ; shtendik
 איבערנעמען ; to transfer, to import ; ibernemen
 ענדערן ; to change ; endern
