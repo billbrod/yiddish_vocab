@@ -888,7 +888,7 @@
 אָנגענומען ; customary, accepted, conventional ; ongenumen
 כּדי ; so that, in order to ; kedey
 אַרײַנפֿאַסן ; to fit into ; araynfasn
-הױפֿטשטראָמיק ; mainstream (adj) ; hoyftshtromik
+הױפּטשטראָמיק ; mainstream (adj) ; hoyptshtromik
 די געזעלשאַפֿט(ן) ; society, community ; di gezelshaft(n)
 בױען ; to build, construct ; boyen
 ענלעך ; similar, alike ; enlekh
@@ -996,3 +996,74 @@
 איר גיט ; you (pl.) give ; ir git
 זײ גיבן ; they give ; zey gibn
 געגעבן ; past participle of געבן ; gegebn
+דער װאַריאַנט(ן) ; variant ; der varyant(n)
+אָרטיק ; local (adj, e.g. "the local language") ; ortik
+שטאַמען ; be descended (from), come (from) ; shtamen (with פֿון)
+די גלות ; exile, diaspora ; di goles
+אײגנאַרט(יק) ; inviduality (adj: individual, idiosyncratic, original) ; eygnart(ik)
+די מישונג(ן) ; mixture ; di mishung(n)
+די סיטואַציע(ס) ; situation ; di situatsye(s)
+דער קאָנטאַקט(ן) ; contact (e.g., "contact between people") ; der kontakt(n)
+דער רעדנער(ס) ; speaker (i.e., the person talking) ; der redner(s)
+עכט ; authentic, genuine, true to form ; ekht
+אומגעװײנטלעך ; rare, unusual ; umgeveynlekh
+דער אינדזל(ן) ; island ; der indzl(n)
+באַקאַנט ; known, well-known ; bakant
+אײנציק ; only ; eyntsik
+דער תּושבֿ(ים) ; resident ; der toyshev (toyshvem)
+דער מוסטער(ן) ; pattern ; der muster(n)
+די געשיכטע ; history ; di geshikte
+קאָמפּליצירן ; to complicate ; komplitsirn
+שפּעטער ; later ; shpeter
+באַאײַנפֿלוסן ; to influence ; baaynflusn
+דער שיכט(ן) ; layer, level (n) ; der shikht(n)
+סײַ װי סײַ ; in any case, anyway ; say vi say
+דער שפּור(ן) ; track, trace ; der shpur(n)
+דעראָבערן ; to conquer ; derobern
+צפֿון ; north ; tsofn
+דרום ; south ; dorem
+מיזרח ; east ; mizrekh
+מערבֿ ; west ; mayrev
+באַלד ; soon (within a short time) ; bald
+האַנדלען ; to trade ; handlen
+דער דאָלמעטשער(ס) ; interpreter ; der dolmetsher
+אױסלערנען זיך ; memorize ; oyslernen zikh
+די מערהײט(ן) ; majority ; di merheyt(n)
+די מינדערהײט(ן) ; minority ; di minderheyt(n)
+די באַפֿעלקערונג(ען) ; population ; di bafelkerung(en)
+געשװינד ; fast, quick ; geshvind
+אַרײַנרעכענען ; to include ; araynrekhenen
+שטענדיק ; continual, everlasting ; shtendik
+איבערנעמען ; to transfer, to import ; ibernemen
+ענדערן ; to change ; endern
+צוגעבן ; to add, to admit ; tsugebn
+דאָס לײַ-װאָרט (װערטער) ; loan word ; dos lay-vort (verter)
+דער כּלל(ים) ; rule, standard, precept ; der klal (klolim)
+דער אױסנעם(ען) ; exception ; der oysnem(en)
+דער װאָקאַל(ן) ; vowel ; der vokal(n)
+אַקצענטירן ; to accent, to accentuate ; aksentirn
+דער עדות ; witness ; der eydes (plural same as singular)
+עדות זאָגן ; to testify ; eydes zogn (periphrastic verb)
+דער קאָנטעקסט(ן) ; context ; der kontekst(n)
+הױפּטזאַכלעך ; principally ; hoyptzakhlekh
+דער אַשכּנז(ים) ; Ashkenazi Jew ; der ashkenaz(im), adjective with -ish
+דער ספֿרד(ים) ; Sephardic Jew ; der sfard(em), adjective with -ish
+דער אונטערשײד(ן) ; difference ; der untersheyd(n)
+דערמאָנען ; to mention ; dermonen
+אַלגעמײן ; general (e.g., more common) ; algemeyn
+צום בײַשפּיל ; for example ; tsum bayshpil
+דער בײַשפּיל(ן) ; example ; der bayshpil(n)
+אײניקע ; several ; eynike (note, it's plural)
+דאָס שײַכות(ן) ; relation, connection ; dos shaykhes(n)
+שײדן ; to separate ; sheydn
+דער קװאַל(ן) ; source ; der kval(n)
+באַטײַטן ; to mean, to signify ; bataytn
+דערקלערן ; to explain, to declare ; derklern
+די דערשײַנונג(ען) ; phenomenon ; di dershaynung(en)
+דער רובֿ ; majority, bulk ; der rov
+די געפֿאַר(ן) ; danger ; di gefar(n)
+דער דראָט(ן) ; wire ; der drot(n)
+די פֿאַרשװינדונג(ן) ; disappearance ; di farshvindung(n)
+צוליב ; because of, due to, for the sake of ; tsulib
+כאָטשבי ; although ; khotshbi
+צום גליק ; luckily ; tsum glik
