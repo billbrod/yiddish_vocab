@@ -54,7 +54,7 @@
 קלוג ; clever ; klug
 נאַריש ; foolish ; narish
 צי ; whether, or (in questions), introduces yes/no questions ; tsi
-שטאַרק ; strong ; shtark
+שטאַרק ; strong ; shtark (also used as intensifier for verb or adverb)
 שװאַך ; weak ; shvakh
 יונג ; young ; yung
 טרױעריק ; sad ; troyerik
@@ -1067,3 +1067,57 @@
 צוליב ; because of, due to, for the sake of ; tsulib
 כאָטשבי ; although ; khotshbi
 צום גליק ; luckily ; tsum glik
+דעמפּיק ; humid ; dempik
+דער שטורעם(ס) ; storm ; der shturem(s)
+דער מבול(ען) ; flood, deluge ; der mabel(en)
+דאָס האַרבסט(ן) ; autumn, fall (season) ; der harbst(n)
+דער פֿרילינג(ען) ; spring (season) ; der friling(en)
+דער זומער(ן) ; summer (season) ; der zumer(n)
+דער װינטער(ן) ; winter (season) ; der vinter(n)
+איך טראַכט פֿון ; I think of... ; ikh trakht fun...
+די זאַװערוכע(ס) ; blizzard ; di zaverukhe(s)
+די בלאָטע ; mud, mire, worthless, nothing ; di blote
+שרײַען ; to shout ; shrayen
+דאָס פֿאָלקסװערטל(עך) ; saying, proverb ; dos folkvertl(ekh)
+דאָס פֿאַרטעך(ער) ; apron ; dos fartekh(er)
+דער שעפּלעפֿל ; ladle ; der sheplefl
+די גאַנדז (גענדז) ; goose ; di gandz (gendz)
+דער קױש(ן) ; basket ; der koysh(n)
+קראַצן ; to scratch ; kratsn
+דער פֿאָרהאַנג(ען) / דער פֿירהאַנג(ען) ; curtain, drape ; der forhang(en) / der firhang(en)
+דער אַדװאָקאַט(ן) ; lawyer, attorney ; der advokat(n)
+די הײבאַם(ן) ; midwife ; di heybam(n)
+דער שילד(ן) ; sign ; der shild(n)
+דער שפּיגל(ען) ; mirror ; der shpigl(en)
+שעלטן / שילטן ; to curse ; sheltn / shiltn
+די מכשפֿה (מכשפֿות) ; witch ; di makhsheyfe(s)
+דער כּישוף ; magic ; der kishef
+די בתולה (בתולות) ; virgin (female) ; di bsule(s) / psule(s)
+חלילה ; God forbid, heaven forbid ; kholile
+ברוגז ; angry (with a person) ; broygez
+דער אײזל(ען) ; donkey, fool, ass ; der eyzal(en)
+מקנא ; jealous ; mekane
+דער צלם(ים) ; cros, crucifix ; tseylem (tslomem)
+געטרײַ ; faithful, loyal ; getray
+פֿאָלגן ; to obey ; folgn
+אָנװערן דאָס פּנים ; to lose face (bring dishonor) ; onvern dos ponem
+װעקן ; to awaken ; vekn
+עס פֿאַרדריסט מיר ; it upsets me ; es fardrist mir
+פֿאַרדריסן ; to annoy, to exasperate ; fardrisn
+עװלה (עװלות) ; sin, mistreatment, injustice ; avle(s)
+דער שלאַק (שלעק) ; stroke, nasty person, shrew, nuisance ; der shlak (shlek)
+שולדיק ; guilty ; shuldik
+קעגן ; against, versus, as opposed to ; kegn
+אָנרעדן ; to disparage, denigrate ; onredn
+טאָמער ; perhaps, lest, in case ; tomer
+רירן ; to move (physically or emotionally) ; rirn
+דער שלאָס (שלעסער) ; lock (noun) ; der shlos (shleser)
+פֿאַרשליסן ; to lock ; farshlisn
+מישן ; to mix ; mishn
+די שורה (שורות) ; line (e.g., of text) ; di shure(s)
+די הױזן ; pants ; di hoyzn
+רײצנדיק ; sexy ; reytsndik
+דער קני(ען) ; knee ; der kni(en)
+די לופֿט(ן) ; air ; di luft(n)
+דער לופֿטגעשעפֿט ; a business built on air ; der luftgesheft
+דער לופֿטמענטש(ן) ; one who chases pie in the sky dreams, selling things no one wants, etc ; der luftmentsh(n)
