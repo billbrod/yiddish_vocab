@@ -165,7 +165,7 @@
 דער זון (זין) ; son ; zun (zin)
 דאָס שװעסטערקינד(ער) / דער קוזין(ס) / די קוזינע(ס) ; cousin ; dos shvesterkind(er) / der kuzin(s) / di kuzine(s)
 די באָבע(ס) ; grandmother ; di bobe(s)
-דער זײַדע(ס) ; grandfather ; der zeyde(s)
+דער זײדע(ס) ; grandfather ; der zeyde(s)
 די שװעגערין(ס) ; sister-in-law ; di shvegerin(s)
 די שװעסטער ; sister ; di shvester (plural same as singular)
 דער ברודער (ברידער) ; brother ; der bruder (brider)
@@ -1070,7 +1070,7 @@
 דעמפּיק ; humid ; dempik
 דער שטורעם(ס) ; storm ; der shturem(s)
 דער מבול(ען) ; flood, deluge ; der mabel(en)
-דאָס האַרבסט(ן) ; autumn, fall (season) ; der harbst(n)
+דער האַרבסט(ן) ; autumn, fall (season) ; der harbst(n)
 דער פֿרילינג(ען) ; spring (season) ; der friling(en)
 דער זומער(ן) ; summer (season) ; der zumer(n)
 דער װינטער(ן) ; winter (season) ; der vinter(n)
