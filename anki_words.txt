@@ -1149,8 +1149,8 @@
 די צונג(ען) ; tongue ; di tsung(en)
 די שׂרפֿה (שׂרפֿות) ; fire, blaze ; di sreyfe(s)
 יאָגן ; to chase, to pursue ; yogn
-דער רידל(ן) ; shovel ; di ridl(n)
-דער גלאָק(ן) ; bell ; di glok(n)
+דער רידל(ן) ; shovel ; der ridl(n)
+דער גלאָק(ן) ; bell ; der glok(n)
 דאָס בלעך(ן) ; tin, sheet metal ; dos blekh(n)
 די האַק (העק) ; axe ; di hak (hek)
 דאָס רעקל(עך) ; jacket, coat ; dos rekl(ekh)
@@ -1180,7 +1180,7 @@
 די מגפֿה (מגפֿות) ; plague, epidemic ; di mageyfe(s)
 דער נחת ; pleasure, satisfaction (esp. pleasure that parent derives from child) ; der nakhes
 שעפּן נחת ; to derive pleasure ; shepn nakhes
-אײנעם פֿונ די ערשטע ; one of the first ; eynem fun di ershte
+אײנעם פֿון די ערשטע ; one of the first ; eynem fun di ershte
 דאָס קאָמפּאַקטל(עך) ; CD ; dos compaktl(ekh)
 אין אַ קומענדיקע יאָר ; in the next year ; in a kumindike yor
 דאָס װיגליד(ער) ; lullaby ; dos viglid(er)
