@@ -1220,3 +1220,65 @@
 באַטעמט ; tasty ; batamt
 איך האָב ליב צו עסן עפּל ; I like to eat apples ; ikh hob lib tsu esn epl (when saying "I like to VERB", the preposition צו is used along with the infinitive)
 איך האָב ליב אַרײַנצוטאָן עפּל אין סאַלאַטן ; I like to put apples in salads ; ikh hob lib arayntsuton epl in salat (when saying "I like to VERB" where VERB is a konverb, the preposition צו is placed between the adverbial complement and the stem, like גע in the past tense)
+צװײ מענטשן אין יעדער גרופּע ; two people in each group ; tsvey mentshn in yeder grupe
+די מאַשין(ען) ; machine ; di mashin(en)
+דער סאָרט(ן) ; sort, kind, type ; der sort(n)
+דער פּחד(ים) ; fear, terror ; der pakhed (pkhodim)
+דער חודש (חדשים) ; month ; der khoydesh (khadoshem)
+די נאָטן ; sheet music ; di notn
+זעלב ; same ; zelb
+עס קאָסט נישט קײן געלט ; it costs no money ; es kost nisht keyn gelt
+איך װעל ; I + future auxiliary verb ; ikh vel
+דו װעסט ; you (sing.) + future auxiliary verb ; du vest
+ער װעט ; he + future auxiliary verb ; er vet
+מיר װעלן ; we + future auxiliary verb ; mir veln
+איר װעט ; you (pl.) + future auxiliary verb ; ir vet
+זײ װעלן ; they + future auxiliary verb ; zey veln
+איך װעל גײן ; I will go ; ikh vel geyn
+איך װיל גײן ; I want to go ; ikh vil geyn
+איך װאָלט געװאָלט גײן ; I would like to go ; ikh volt gevolt geyn
+ימים-נוראָים ; high holidays, "days of awe"; yomim neroim
+ראָש-השנה ; Rosh Hashanah ; rosh-eshone
+יום-כּיפּור ; Yom Kippur ; yom-kiper (yom is more like "yong", lips don't close)
+הילכן ; to echo, to resound ; hilkht
+שאַלן ; to resound, to howl ; shaln
+הײַטערן ; to cheer ; haytern
+דאָס גליק(ן) ; happiness ; dos glik(n)
+די פֿרײד(ן) ; joy ; di freyd(n)
+דער גײַסט(ער) ; spirit (as in ghost or as in "bring their spirits up") ; di gayst
+לשנה-טובֿה ; "good year" (greeting on Rosh Hashanah) ; leshone-toyve
+מחזור ; prayerbook for high holidays ; makhzer
+די תּפֿילה (תּפֿילות) ; prayer ; di tfile(s)
+דער װידער(ס) ; ram (male sheep) ; der vider(s)
+דער האָרן (הערנער) ; horn ; der horn (herner)
+דער שופֿר (שופֿרות) ; shofar (ram's horn trumpet, blown on Rosh Hashanah) ; der shoyfer (shoyfres)
+דער ספֿר(ים) ; religious book ; der seyfer (sforem)
+דאָס קיטל(עך) ; kittel (white robe worn by Jewish men on holidays) ; dos kitl(ekh)
+דער קול(ער) ; voice, cry ; der kol (keler)
+תּכּתבֿו ; to be inscribed ; tikoseyvu (appended to לשנה-טובֿה as part of Rosh Hashanah greeting)
+דאָס געפֿיל(ן) ; feeling (sensation or emotion) ; dos gefil(n)
+ערנסט ; serious, grave, earnest ; ersnt
+די זינד ; sin ; di zind (plural same as singular)
+אָפּרײניקן ; to cleanse (e.g., sin) ; opreynikn
+דערקענען ; to recognize, to identify ; derkenen
+רינגלט עס אַרום ; circle it ; ringlt es arum
+דאָס געװיסן(ס) ; conscience ; dos gevisn(s)
+דער טאָן (טענער) ; tone, sound ; der ton (tener)
+שװעבן ; to float, to hover (in air) ; shvebn
+(די) סוכּות ; Sukkot ; (di) sukes
+די אַחריות ; responsibility ; di akhroyes
+זײ האָבן צו טאָן נישט מיטן נאַטור-לעבן ; they don't have to do with natural life ; zey hobn tsu ton nisht mitn natur-lebn
+דער יחיד / די יחידה ; individual ; der yokhid (masc.) / di yekhide (fem.)
+די הוליאַנקע(ס) ; wild party ; di hulyanke(s)
+דער אומעט ; sadness, gloom, melancholy ; der umet
+דער ציטער(ס) ; tremble, quiver ; der tsiter(s)
+מרה-שחורה ; depression, despondency ; more-shkhoyre
+דער שאָטן(ס) ; shadow ; der shotn(s)
+זײַן יוצא ; to fulfill an obligation ; zayn yoytse
+די פֿאָרשפּיל(ן) ; prelude ; di forshpil
+ערשט נאָך דעם װי ; only after ... ; ersht nokh dem vi ...
+פֿײַערן ; to celebrate ; fayern
+גאָר ; whole, entire (adj), very, no more (adv) ; gor
+טיפֿ ; deep ; tif
+באַגיסן ; to drench, to cover (as liquid) ; bagisn
+פֿאַרגעבן ; to forgive ; fargebn
