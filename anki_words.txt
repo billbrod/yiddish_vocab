@@ -1240,12 +1240,12 @@
 ימים-נוראָים ; high holidays, "days of awe"; yomim neroim
 ראָש-השנה ; Rosh Hashanah ; rosh-eshone
 יום-כּיפּור ; Yom Kippur ; yom-kiper (yom is more like "yong", lips don't close)
-הילכן ; to echo, to resound ; hilkht
+הילכן ; to echo, to resound ; hilkhn
 שאַלן ; to resound, to howl ; shaln
 הײַטערן ; to cheer ; haytern
 דאָס גליק(ן) ; happiness ; dos glik(n)
 די פֿרײד(ן) ; joy ; di freyd(n)
-דער גײַסט(ער) ; spirit (as in ghost or as in "bring their spirits up") ; di gayst
+דער גײַסט(ער) ; spirit (as in ghost or as in "bring their spirits up") ; der gayst
 לשנה-טובֿה ; "good year" (greeting on Rosh Hashanah) ; leshone-toyve
 מחזור ; prayerbook for high holidays ; makhzer
 די תּפֿילה (תּפֿילות) ; prayer ; di tfile(s)
