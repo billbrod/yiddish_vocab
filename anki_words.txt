@@ -1207,9 +1207,9 @@
 קלאָר ; clear, sane ; klor
 דער ממזר(ים) / די ממזרת ; bastard ; der mamzer (mamzeyrem) / di mamzeyres
 די נסיעה (נסיעות) ; trip, journey ; di nesie(s)
-אַן אַמעריקאַנער װאָס װױנט אין איסלאַנד שױן 20 יאָר ; an American who has been living in Iceland for 20 years
+אַן אַמעריקאַנער װאָס װױנט אין איסלאַנד שױן 20 יאָר ; an American who has been living in Iceland for 20 years ; an amerikaner vos voynt in island shoyn tsvantsik yor
 אַן אַנדער מאָל איך װעל ; another time I will... ; an ander mol ikh vel (not "an ander tsayt")
-גוט פֿאַרברענגען ; to have a good time ; gut farbengen
+גוט פֿאַרברענגען ; to have a good time ; gut farbrengen
 די פֿאָרשטאָט (פֿאָרשטעט) ; the suburbs ; di forshtot (forshtet)
 די סוכּה ; sukkah ; di suke
 דער סכך ; sukkah roof ; der skhakh
@@ -1350,3 +1350,20 @@
 טאָ ; then, so, in that case ; to
 שטופּן ; to push, to poke ; shtupn (not vulgar)
 בגנבֿה ; stealthily ; begneyve
+די סעודה (סעודות) ; feast, festive meal ; di sude(s)
+צו מאָרגנס ; on the next day ; tsu morgns
+דאָס געזאַנג(ען); song, singing (noun) ; dos gezang(en)
+דער טאַנץ (טענץ) ; dance (noun) ; dos tants (tents)
+גײן איבער די הײַזער ; to go from house to house ; geyn iber di hayzer
+מיטצײַטלער(ס) ; contemporary (noun, "they were contemporaries") ; mittsaytler(s)
+אָן אַן עק ; endlessly ; on an ek
+קנעלן ; to teach, to drill ; kneln
+שיטן ; to pour (dry material) ; shitn
+דאָס רענדל(עך) ; gold coin ; dos rendl(ekh)
+מאַכן אַ כּוסה ; to have a drink (alcoholic) ; makhn a koyse
+אַלצדינג ; everything ; altsding
+די קאַפּאָטע(ס) ; long coat, overcoat ; di kapote(s)
+עס דאַרט מיר (גוט) דער מוח ; I'm plagued with worry ; es dart mir (gut) der moyekh (גוט is intensifying the verb)
+אַצינד ; now ; atsind (synonym with איצט)
+דער מוח(ות) ; brain, mind ; der moyekh (moykhes)
+די כּלי(ם) ; vessel, utensil ; di keyli (keylem)
