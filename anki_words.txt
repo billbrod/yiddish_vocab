@@ -1352,7 +1352,7 @@
 די סעודה (סעודות);feast, festive meal;di sude(s)
 צו מאָרגנס;on the next day;tsu morgns
 דאָס געזאַנג(ען);song, singing (noun);dos gezang(en)
-דער טאַנץ (טענץ);dance (noun);dos tants (tents)
+דער טאַנץ (טענץ);dance (noun);der tants (tents)
 גײן איבער די הײַזער;to go from house to house;geyn iber di hayzer
 מיטצײַטלער(ס);contemporary (noun, "they were contemporaries");mittsaytler(s)
 אָן אַן עק;endlessly;on an ek
@@ -1366,3 +1366,37 @@
 אַצינד;now;atsind (synonym with איצט)
 דער מוח(ות);brain, mind;der moyekh (moykhes)
 די כּלי(ם);vessel, utensil;di keyli (keylem)
+דער אַלמער;closet, wardrobe;der almen(s)
+די פּאָליצע(ס);shelf, bookshelf;di politse
+דער שטול(ן);chair (furniture);der shtul(n)
+דער װיגשטול(ן);rocking chair;der vigshtul(n)
+דאָס בילד(ער);picture;dos bild(er)
+די שאַפֿקע(ס);shelf (with doors), closet;di shafke
+דער טעלעװיזאָר(ן);television set;der televizor(n)
+דער פֿאָטעל(ן);arm chair, footstool;der fotel(n)
+די סאָפֿע(ס);sofa;di sofe(s)
+די פּיאַנע(ס);piano;di pyane(s)
+די װאַזע(ס);vase;di vaze(s)
+אונטער;under;unter
+הינטער;behind;hinter
+איבער;over;iber
+פֿאַר;in front of, before;far
+דאָס פּראָגראַמװאַרג, דאָס װײכװאַרג;software;dos programvarg, dos veykhvarg
+איבערזעצן;to translate;iberzetsn
+די איבערזעצונג(ען);translation;di iberzetsung
+דער איבערזעצער(ס);translator;der iberzetser(s)
+איבערזעצן פֿון יִידיש אױף ענגליש;to translate from Yiddish to English;iberzetsn fun yidish af english
+בײַטן;to change;baytn
+די באַלײדיקונג(ען);insult (noun);di baleydikung(en)
+דאָס הײַזל(עך);brothel;dos hayzl(ekh)
+דער הענגלײַכטער(ס);chandelier/candelabra;der henglaykhter(s)
+די ביכערשאַנק (ביכערשענק);bookshelf;di bikhershank (bikhershenk)
+די טעלעװיזיע(ס);television programming;di televizye(s)
+דער װינקל(ן);corner, angle;der vinkl(n)
+די סטעליע(ס);ceiling;di stelye(s)
+די װאַנט (װענט);wall;di vant (vent)
+דאָס מעבל;furniture;dos mebl (plural same as singular)
+מיט װאָס זײַנען זײ אַנדערש?;how are they different?;mit vos zaynen zey andersh?
+דער טאָװל(ן);board (i.e., whiteboard or blackboard);der tovl(n)
+געטראָפֿן;(you) guessed (it);getroft
+נײן, פֿרעג װײַטער;no, keep asking (questions);neyn, freg vayter
