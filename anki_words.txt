@@ -1366,7 +1366,7 @@
 אַצינד;now;atsind (synonym with איצט)
 דער מוח(ות);brain, mind;der moyekh (moykhes)
 די כּלי(ם);vessel, utensil;di keyli (keylem)
-דער אַלמער;closet, wardrobe;der almen(s)
+דער אַלמער;closet, wardrobe;der almer(s)
 די פּאָליצע(ס);shelf, bookshelf;di politse
 דער שטול(ן);chair (furniture);der shtul(n)
 דער װיגשטול(ן);rocking chair;der vigshtul(n)
@@ -1398,5 +1398,24 @@
 דאָס מעבל;furniture;dos mebl (plural same as singular)
 מיט װאָס זײַנען זײ אַנדערש?;how are they different?;mit vos zaynen zey andersh?
 דער טאָװל(ן);board (i.e., whiteboard or blackboard);der tovl(n)
-געטראָפֿן;(you) guessed (it);getroft
+געטראָפֿט;(you) guessed (it);getroft
 נײן, פֿרעג װײַטער;no, keep asking (questions);neyn, freg vayter
+די מיטלשול(ן);high school;di mitlshul
+מאַגיסטערס;master's (degree);magisters
+די רפֿואה (רפֿואות);medicine, healing, treatment;di refue(s)
+איבערחזרן;to repeat;iberkhazern
+אַרומנעמען;to embrace;arumnemen
+די ראָלע(ס);role (in play);di role(s)
+דער אַבסורד(ן);absurdity (n), absurd (adj);der absurd(n)
+דאָס אָרט (ערטער);place, position, location;dos ort (erter)
+דער שוך (שיך);shoe;der shukh (shikh)
+איך לײג זיך שלאָפֿן;I go to bed;ikh leyg zikh shlofn
+אױב אַזױ;if so...;oyb zo...
+די זײַט(ן);side (e.g., of a table);di zayt(n)
+לעבן דער מאַמען רחל;near the mom Rachel;lebn der mamen rokhel (only title is dative, not name)
+ומ/נײטיק;un/necessary;um/neytik
+פּאַסיק;appropriate;pasik
+פֿאָר/ט געזונט און קום/ט געזונט;have a safe trip;for/t gezunt un kum/t gezunt
+עסט געזונטערהײט;eat up!;est gezunterheyt
+מיט אַ גוטן אַפּעטיט;bon appetit;mit a gutn appetit
+רבי,האַרץ,ייִד,מענטש,זײדע,טאַטע,מומע,מאַמע,באָבע;nouns that decline;these are the only Yiddish nouns that have a dative form
