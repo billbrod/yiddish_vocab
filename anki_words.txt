@@ -1419,3 +1419,15 @@
 עסט געזונטערהײט;eat up!;est gezunterheyt
 מיט אַ גוטן אַפּעטיט;bon appetit;mit a gutn appetit
 רבי,האַרץ,ייִד,מענטש,זײדע,טאַטע,מומע,מאַמע,באָבע;nouns that decline;these are the only Yiddish nouns that have a dative form
+דער ניפֿטר(ים);dead person (honorable), the fallen (in plural);der nifter (niftorem)
+ניפֿטרװערן;to pass away;nifterern
+װער נאָך?;who else?;ver nokh?
+דער באַדײַט(ן) / די באַדײַטונג(ען);meaning;der badayt(n) / di badaytung(en)
+חוץ;except for, in addition to;khuts
+טרעפֿן;to guess, to meet;trefn
+איז;filler word, "um";iz
+דער בעקער פֿאַרקױפֿט דעם זײדן דעם קוכן;the baker sells the cake to the grandfather;der beker farkoyft dem zeydn dem kukhn (direct object is accusative, indirect is dative, this order is the case when neither are pronouns)
+דער אומ/דירעקטער אָביעקט;in/direct object;der um/direkter obyekt
+דער מיטװױנער;roommate;der mitvoyner
+באַקלאָגן (זיך פֿאַר);to lament (to complain to sb);baklogn (zikh far...)
+דער פּרט(ים);detail;der prat (protim)
