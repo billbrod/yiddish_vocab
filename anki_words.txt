@@ -1447,3 +1447,25 @@
 דער פֿעלער(ן), דער טעות(ן);error, mistake;der feler(n), der toes(n)
 װער גיסט דער קאַץ די מילך? דער פּיראַט גיסט זי איר;who poured the milk for the cat? the pirate poured it for her;ver gist der kats di milkh? der pirate gist zi ir. (when they're both pronouns, the direct object precedes the indirect object, the opposite of when they're both nouns)
 װער קױפֿט דער טאָכטער די גיטאַרע? דער טאַטע קױפֿט זי דער טאָכטער;who bought the guitar for the daughter? the father bought it for the daughter;ver koyft der tokhter di gitare? der tate koyft zi der tokhter (when a full noun and a pronoun follow the verb, the pronoun comes first)
+דער דעמב(ן);oak (tree);der demb(n)
+די סאָסנע(ס);pine (tree);di sosne(s)
+דער קליאָן(ען);maple (tree);der klyon (adjective form: קלינינע)
+דער ראָג(ן);(street) corner;der rog(n)
+דער קאָנצערטזאַל(ן);concert hall;der kontsertzal
+די שענק(ען);bar (place to drink);di shenk(n)
+דער קינאָ(ס);cinema;der kino(s)
+דער אינטערנאַט(ן);dormitory;der internat(n)
+די שטוב(ן / שטיבער);house, home;di shtub(n / shtiber)
+דער קאַפֿע(ען);cafe (place to drink coffee);der kafe(en)
+אַרױסגײן;to go out;aroysgeyn
+פֿאַרבײַגײן;to go past;farbaygeyn
+שטעלן אײנעם דעם אַנדערן פֿראַגעס;to ask each other questions;shteln eynem dem andern frages
+די קונסט(ן);art;di kunst(n)
+דער קינסטלער(ס);artist;di kinstler(s)
+דער טעאַטער איז לעבן מוזײ;the theater is near the museum;der teater iz lebn muzey (don't use definite article when location follows לעבן)
+דער טעאַטער איז אױף דעמב-גאַס, ראָג צענטער-גאַס;the theater is on the corner of oak and center streets;der teater iz af demb-gas, rog tsenter-gas
+איך האָב נישט קײן אַנונג;I have no idea!;ikh hob nisht keyn anung
+די אַנונג(ען);notion, idea, inkling;di anung(en)
+פֿאַרקערעװען זיך (לינקס/רעכטס);to turn (left/right);farkereven zikh (links/rekhts)
+דער װעלאָסיפּעד(ן), דער ביציקלעט(ן);bicycle;der velosiped(n), der bitsiklet(n)
+מען גײט צו פֿוס;one goes on foot;men geyt tsu fus
