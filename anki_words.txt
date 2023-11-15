@@ -1476,3 +1476,30 @@
 װידער;again (e.g., we'll see each other again);vider
 די צאָל(ן);number (abstract entity), count;di tsol(n)
 צוזאָגן;to promise (commit to something);tsuzogn
+װוּהין גײסטו;to where are you going?;vuhin geystu? (װוּהין used with active verbs)
+שפּאַצירן;to take a walk, hike, stroll;shpatsirn
+ראַנדקעװען זיך;to go on a date;randkeven zikh
+די ראַנדקע(ס);date (e.g., "go on a date", noun);di randke(s)
+דאָס מאָלערײַ(ען);painting;dos moleray(en)
+די קאָקאָשעס;popcorn;di kokoshes
+פֿירן;to lead, guide;firn
+איך בין אױף אַ פֿילם, אין קינאָ;I am at a film, in a cinema;ikh bin af a film, in kino (אױף for temporary events, אין for locations, with same verbs)
+די אױסשטעלונג(ען);performance, exhibition;di oysshtelung(en)
+דאָס רעדט חנה;it's khane speaking (how to announce yourself on the phone);dos redt khane
+מאַכן אַ לחײם;to have a drink;makhn a lekhayim
+װאָס זאָגסטו דערצו;what do you say to that?;vos zogstu dertsu?
+װאַרטנדיק אױף פּאָלס אַרטיקל;waiting for Paul's article;vartndik af pols artikl
+װאַרטן;to wait;vartndik
+נאָך נישט;not yet;nokh nisht
+איך פֿאָר צו סענדערן;I'm driving to Sender's;ikh for tsu sendern
+איך פֿאָר אַהײם;I'm driving home;ikh for aheym (הײם is special)
+װאָס טוסטו אין דער הײם;what are you doing at home?;vos tustu in der heym? (הײם is special)
+װאָס טוסטו בײַ סענדערן;what are you doing at Sender's?;vos tustu bay sendern?
+אַכט אַ זײגער;eight o'clock;akht a zeyger
+אַ פֿערטל נאָך צען אין דער פֿרי;a quarter past ten in the morning;a fertl nokh tsen in der fri
+האַלבער טאָג;noon;halber tog
+אַ פֿערטל צו פֿיר נאָך מיטאָג;a quarter to four in the afternoon;a fertl tsu fir nokh mitog
+פֿינף און צװאַנציק מינוט נאָך זיבן;twenty five minutes after seven;finf un tsvantsik minut nokh zibn
+האַלב צענ אין אָװנט;nine-thirty in the evening;halb tsen in ovnt
+האַלבע נאַכט;midnight;malbe nakht
+פֿינף מינוט צו צװײ בײַ נאַכט;five to two at night;finf minut tsu tsvey bay nakht
