@@ -1503,3 +1503,30 @@
 האַלב צענ אין אָװנט;nine-thirty in the evening;halb tsen in ovnt
 האַלבע נאַכט;midnight;malbe nakht
 פֿינף מינוט צו צװײ בײַ נאַכט;five to two at night;finf minut tsu tsvey bay nakht
+פֿאָרן צו גאַסט;to travel to visit;forn tsu gast (any movement verb can be used: קומען, גײן)
+דאַנקטאָג;Thanksgiving (American holiday);danktog
+עס װעט זזײַן חלה;there will be challah here;es vet zayn khale (in present tense, this would have "דאָ", but that's only in present tense)
+דער שכן (שנכים) / די שכנה (שכנות);neighbor;der shokhn (shkeynem) / di shkheyne(s)
+די רעקלאַמע(ס);advertisement;di reklame(s)
+די מתּנה (מתּנות);gift;di matone(s)
+די שטימונג(ען);mood;di shtimung(endern)
+די לעבנספֿרײד(ן);good humor, joie de vivre;di lebnsfreyd(n)
+װיפֿל האַלט דער זײגער?;what time is it?;vifl halt der zeyger?
+דער פּױער(ים);farmer, peasant;der poyer(em)
+װיפֿל אַ זײגער?;at what time?;vifl a zeyger?
+פֿ“מ (פֿאַר מיטאָג);a.m.;far mitog
+נ“מ (נאָך מיטאָג);p.m.;nokh mitog
+מיר טרינקן אַכט אַ זײגער;we drink at eight o'clock;mir trinkn akht a zeyger (not preposition needed)
+די טבֿע(ס);nature (essential characterists);di teve(s)
+װיפֿל אַ זײגער װאַכסטו אױף?;what time do you wake up?;vifl a zeyger vakhstu oyf?
+אַרײַנשלאָפֿן;to fall asleep;araynshlofn
+איך ענדיק צען מינוט נאָכן אָנהײבן;I finished ten minutes after beginning;ikh endik tsen minut nokhn onheybn
+די צײַט פּאַסט?;the time is suitable;di tsayt past?
+פּאַסן;to pass, to be appropriate, to fit;pasn
+סודוסדיק;secret (adj), secretive;soydesdik
+דער סוד(ות);secret (noun);der sod (soydes)
+דער צײַטפּלאַן (צײַטפּלענער);schedule;der tsaytplan (tsaytplener)
+דער זומער-לאַגער(ן);summer-camp (for all ages);der zumer-lager(n)
+די זומער-קאָלאָניע(ס);summer-camp (for children);der zumer-kolonye(s)
+דער װאַרשטאַט(ן);workshop;der varshtat(n)
+צום באַדױערן;unfortunately;tsum badoyern
