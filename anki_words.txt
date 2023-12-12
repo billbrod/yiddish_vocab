@@ -433,7 +433,7 @@
 זעלטן;rare;zeltn
 פּסח;Passover;peysekh
 מער װײניקער;more or less, approximately;mer veyniker
-פֿאַרנומען;busy;farnumen
+פֿאַרנומען;busy, occupied (both military and "busy");farnumen
 גרײטן;to prepare;gretyn
 דער אַרױסרעד(ן);pronunciation;der aroysred(n)
 קאָנטראָלירן;to check;kontrolirn
@@ -1093,7 +1093,7 @@
 די מכשפֿה (מכשפֿות);witch;di makhsheyfe(s)
 דער כּישוף;magic;der kishef
 די בתולה (בתולות);virgin (female);di bsule(s) / psule(s)
-חלילה;God forbid, heaven forbid;kholile
+חס וחלילה;God forbid, heaven forbid;khas vekholile
 ברוגז;angry (with a person);broygez
 דער אײזל(ען);donkey, fool, ass;der eyzl(en)
 מקנא;jealous;mekane
@@ -1530,3 +1530,139 @@
 די זומער-קאָלאָניע(ס);summer-camp (for children);der zumer-kolonye(s)
 דער װאַרשטאַט(ן);workshop;der varshtat(n)
 צום באַדױערן;unfortunately;tsum badoyern
+ברוך-הבא;welcome;borekh habe
+באַפּוצן;to clean;baputsn
+די נײ-מאַשינ(ען);sewing machine;di ney-mashin(en)
+די מישנה (מישניות);Mishnah;di mishe (mishnayes)
+די װאַסערפֿאַרב(ן);watercolor (paint);di vaserfarb(n)
+איבערלעבן;to survive;iberlebn
+שארית-הפּליטע;Holocaust survivors (lit. "broken remnant");sheyres-hapleyte
+איך האָב בעסער ליב;I prefer;ikh hob beser lib
+אין דער זעלבער צײַט;at the same time;in der zelber tsayt
+קענסטו געבן צו פֿאַרשטײן;can you explain?;kenstu gebn tsu farshteyn?
+די בשׂמים;spices;di besomem
+די פֿאַרגאַנגענע צײַט;past tense;di fargangene tsayt
+די מאַלפּע(ס);monkey;di malpe(s)
+דער הירש(ן);deer;der hirsh(n)
+דער העלפֿאַנד(ן);elephant;der helfand(n)
+דער װאָלפֿ(ן);wolf;der volf(n)
+דער בער(ן);bear;der ber(n)
+דער פֿוקס(ן);fox;der fuks(n)
+דער פֿיש;fish;der fish (plural same as singular)
+די זשאַבע(ס);frog;di zhabe(s)
+דער לײב(ן);lion;der leyb(n)
+די יאַשטשערקע(ס);lizard;di yashtsherke(s)
+דער קאַטשער(ן) / די קאַטשקע(ס);duck;der katsher(n) / di katshke(s)
+דאָס פֿערד;horse;dos ferd (plural same as singular)
+דער אָדלער(ס);eagle;der odler(s)
+די פֿלעדערמױז (פֿלעדערמײַז);bat;di fledermoyz (fledermayz)
+די שלאַנג(ען);snake;di shlang(en)
+דאָס פֿלאַטערל(עך);butterfly;dos flaterl(ekh)
+דאָס שלײערל(עך);caterpillar;dos shleyerl(ekh)
+די טשערעפּאַכע(ס);tortoise;di tsherepakhe(s)
+דער זאָאָ-גאָרטן (גערטנער);zoo;der zo-gortn (gertner)
+די הײל(ן);cave;di heyl(n)
+פֿליען;to fly;flien
+די באַן(ען);train;di ban(en)
+כיטרע;sly;khitre
+אומגעלומפּערט;clumsy, awkward;umgelumpert
+פֿאַלש;false;falsh
+רײַטן;to ride;raytn
+רינען;to run (e.g., like a river);rinen
+קריכן;to crawl;krikhn
+דאָס װאַסערל(עך);stream;dos vaserl(ekh)
+װאָס געשעט עס;what's happening;vos geshet es
+דער נעבעך;unfortunate person, sadly, unfortunately;der nebekh
+װידער אַ מאָל;once again;vider a mol
+צום ערשטער מאָל;for the first week;tsum ershter mol
+די פֿאַרגאַנגענע װאָך;last week;di fargangene vokh
+באַמערקן;to notice;bamerkn
+די טוּונג(ען);action, deed;di tuung(en)
+די רײ(ען);row;di rey(en)
+דער זײַל(ן);column, pillar;der zayl(n)
+די באַװעגונ(ען);movement (physical or "trend in various fields");di bavegung(en)
+איך בין געזעסן;I sat;ikh bin gezesn (past participle of זיצן)
+איך בין געלעגן;I laid;ikh bin gelegn (past participle of ליגן)
+איך בין געשלאָפֿן;I slept;ikh bin geshlofn (past participle of שלאָפֿן)
+עס איז געשען;It happened;es iz geshen (past participle of געשען)
+איך בין געריטן;I rode;ikh bin geritn (past participle of רײַטן)
+איך בין געלאָפֿן;I ran;ikh bin gelofn (past participle of לױפֿן)
+איך בין געשפּרונגען;I jumped;ikh bin geshprungen (past participle of שפּרינגען)
+דער טײַך איז גערונען;the river ran;der taykh iz gerunen (past participle of רינען)
+איך בין געשטאָרבן;I died;ikh bin geshtorbn (past participle of שטאָרבן)
+איך בין געקומען;I came;ikh bin gekumen (past participle of קומען)
+איך בין געשװוּמען;I swam;ikh bin geshvumen (past participle of שװימען)
+איך בין געגאַנגען;I went;ikh bin gegangen (past participle of גײן)
+איך בין געפֿאַלן;I fell;ikh bin gefaln (past participle of פֿאַלן)
+איך בין געשטאַנען;I stood;ikh bin geshtanen (past participle of שטײן)
+איך בין געבליבן;I remained;ikh bin geblibn (past participle of בלײַבן)
+איך בין געפֿלױגן;I flew;ikh bin gefloygn (past participle of פֿליען)
+איך בין געפֿאָרן;I traveled (by vehicle);ikh bin geforn (past participle of פֿאָרן)
+איך בין געהאַנגען;I hung;ikh bin gehangen (past participle of הענגען)
+איך בין געװאָרן;I became;ikh bin gevorn (past participle of װערן)
+איך בין געװאַקסן;I grew;ikh bin gevaksn (past participle of װאַקסן)
+איך בין געקראַכן;I crawled;ikh bin gekrakhn (past participle of קריכן)
+זײ געשעען;they happen;zey gesheen
+דער חנוכּה;Hanukkah;der khaneke
+לוסטיק;cheerful;lustik
+נישטאָ נאָך אַכּױנער;there's nothing like it;nisto nokh azoyner
+זודיק הײס;boiling hot;zudik heys
+דער נס(ים);miracle;der nes (nisim)
+לױבן;to praise;loybn
+דער קאָן(ען);circle, round, stake (in a game);der kon(en)
+די שׂונא(ים);enemy;di soyne (sonem)
+דער יאַנואַר;January;der yanuar
+דער פֿעברואַר;February;der februar
+דער מאַרץ;March;der marts
+דער אַפּריל;April;der april
+דאָס מײַ;May;dos may
+דער יוני;June;der yuni
+דער יולי;July;der yuli
+דער אױגוסט;August;der oygust
+דער סעפּטעמבער;September;der september
+דער אָקטאָבער;October;der oktober
+דער נאָװעמבער;November;der november
+דער דעצעמבער;December;der detsember
+דער זונטיק;Sunday;der zuntik
+דער מאָנטיק;Monday;der montik
+דער דינסטיק;Tuesday;der dinstik
+דער מיטװאָך;Wednesday;der mitvokh
+דער דאָנערשטיק;Thursday;der donershtik
+דער פֿרײַטיק;Friday;der fraytik
+דער שבת;Saturday;der shabes
+דער רוצח(ים);murderer, brutal person;der retseyekh (rotskhem)
+שטרעבן;to strive, to aspire;shtrebn
+אַריבערפֿליען;to fly over;ariberflien
+אַדורכפֿליען;to fly through;adurkhflien
+דאָס געשעעניש(ן);happening, event;dos gesheenish(n)
+די איצטיקער צײַט;present tense;di itstiker tsayt
+ספּעציפֿיש;specific;spetsifish
+אַפֿילו;even (emphasizing a comparison or implying extreme example);afile
+איך האָב געשריבן דעמ בריװ און געשיקט;I wrote the letter and sent it;ikh hob geshribt dem briv un geshikt (when there are multiple past tense verbs, typically only the first is accompanied by the helping verb)
+דער פֿרײלעכס(ן);merry dance tune;der freylekhs(n)
+די אונטערנעמונג(ען);undertaking, affair;di unternemung(en)
+באַניצן;to use, employ;banitsn
+פֿירן דעם אױטאָ;to drive the car;firn dem oyto
+הין און צוריק;round-trip, there and back;hin un tsurik
+דער געצן(ען);idol;der getsn(en)
+דער פֿירער(ס);leader;der firer(s)
+פֿאַרטריבן;to drive out;fartribn
+אַרױסװאַרפֿן;to throw out (e.g., of a building);aroysvarfn
+דער בית-המקדש;the Temple in Jerusalem;der beys-hamikdesh
+די מנורה (מנורות);menorah;di menoyre(s)
+פֿרײען זיך;to rejoice;freyen zikh
+פֿירן מלחמה;to wage war;firn milkhome
+דער מינהג(ים);custom (traditional practice);der mineg (minhogem)
+דינינקע;small and thin;dininke (diminutive of דינע, adjective diminutives formed by adding ינקע)
+גראָסינקע;big (affectionate);groysinke (diminutive of גרױס, adjective diminutives formed by adding ינקע)
+דער גלױבן(ס);faith, belief, trust;der gloybn(s)
+די האָפֿענונג(ען);hope;di hofenung
+דריקן;to squeeze, to press;drikn
+אונטערדריקן;to oppress, to suppress;unterdrikn
+איך בינ לעצטנס גאָרנישט נישט געשלאָפֿן;I haven't been sleeping at all recently;ikh bin letsnts gornisht nisht geshlofn
+איך רעד צו פֿיל;I talk too much;ikh red tsu fil
+אַרױסקוקן אױף;to look forward to;aroyskukn af
+דאָס װיגעלע(ך);cradle, crib;der vigele(kh)
+װיגן;to rock;vign
+די װעראַנדע(ס);veranda, porch;di verande(s)
+דער ברעג(ן);coast, shore, river bank;der breg(n)
