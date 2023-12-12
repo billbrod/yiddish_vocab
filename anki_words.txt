@@ -1006,7 +1006,7 @@
 דער קאָנטאַקט(ן);contact (e.g., "contact between people");der kontakt(n)
 דער רעדנער(ס);speaker (i.e., the person talking);der redner(s)
 עכט;authentic, genuine, true to form;ekht
-אומגעװײנטלעך;rare, unusual;umgeveynlekh
+אומגעװײנלעך;rare, unusual;umgeveynlekh
 דער אינדזל(ן);island;der indzl(n)
 באַקאַנט;known, well-known;bakant
 אײנציק;only;eyntsik
@@ -1574,13 +1574,13 @@
 װאָס געשעט עס;what's happening;vos geshet es
 דער נעבעך;unfortunate person, sadly, unfortunately;der nebekh
 װידער אַ מאָל;once again;vider a mol
-צום ערשטער מאָל;for the first week;tsum ershter mol
+צום ערשטער מאָל;for the first time;tsum ershter mol
 די פֿאַרגאַנגענע װאָך;last week;di fargangene vokh
 באַמערקן;to notice;bamerkn
 די טוּונג(ען);action, deed;di tuung(en)
 די רײ(ען);row;di rey(en)
 דער זײַל(ן);column, pillar;der zayl(n)
-די באַװעגונ(ען);movement (physical or "trend in various fields");di bavegung(en)
+די באַװעגונג(ען);movement (physical or "trend in various fields");di bavegung(en)
 איך בין געזעסן;I sat;ikh bin gezesn (past participle of זיצן)
 איך בין געלעגן;I laid;ikh bin gelegn (past participle of ליגן)
 איך בין געשלאָפֿן;I slept;ikh bin geshlofn (past participle of שלאָפֿן)
