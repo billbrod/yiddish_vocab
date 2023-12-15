@@ -1605,7 +1605,7 @@
 זײ געשעען;they happen;zey gesheen
 דער חנוכּה;Hanukkah;der khaneke
 לוסטיק;cheerful;lustik
-נישטאָ נאָך אַכּױנער;there's nothing like it;nisto nokh azoyner
+נישטאָ נאָך אַזױנער;there's nothing like it;nishto nokh azoyner
 זודיק הײס;boiling hot;zudik heys
 דער נס(ים);miracle;der nes (nisim)
 לױבן;to praise;loybn
