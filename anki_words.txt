@@ -1489,7 +1489,7 @@
 מאַכן אַ לחײם;to have a drink;makhn a lekhayim
 װאָס זאָגסטו דערצו;what do you say to that?;vos zogstu dertsu?
 װאַרטנדיק אױף פּאָלס אַרטיקל;waiting for Paul's article;vartndik af pols artikl
-װאַרטן;to wait;vartndik
+װאַרטן;to wait;vartn
 נאָך נישט;not yet;nokh nisht
 איך פֿאָר צו סענדערן;I'm driving to Sender's;ikh for tsu sendern
 איך פֿאָר אַהײם;I'm driving home;ikh for aheym (הײם is special)
