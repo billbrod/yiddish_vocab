@@ -1420,7 +1420,7 @@
 מיט אַ גוטן אַפּעטיט;bon appetit;mit a gutn appetit
 רבי,האַרץ,ייִד,מענטש,זײדע,טאַטע,מומע,מאַמע,באָבע;nouns that decline;these are the only Yiddish nouns that have a dative form
 דער ניפֿטר(ים);dead person (honorable), the fallen (in plural);der nifter (niftorem)
-ניפֿטרװערן;to pass away;nifterern
+ניפֿטרװערן;to pass away;niftervern
 װער נאָך?;who else?;ver nokh?
 דער באַדײַט(ן) / די באַדײַטונג(ען);meaning;der badayt(n) / di badaytung(en)
 חוץ;except for, in addition to;khuts
@@ -1601,7 +1601,7 @@
 איך בין געהאַנגען;I hung;ikh bin gehangen (past participle of הענגען)
 איך בין געװאָרן;I became;ikh bin gevorn (past participle of װערן)
 איך בין געװאַקסן;I grew;ikh bin gevaksn (past participle of װאַקסן)
-איך בין געקראַכן;I crawled;ikh bin gekrakhn (past participle of קריכן)
+איך בין געקראָכן;I crawled;ikh bin gekrokhn (past participle of קריכן)
 זײ געשעען;they happen;zey gesheen
 דער חנוכּה;Hanukkah;der khaneke
 לוסטיק;cheerful;lustik
@@ -1638,7 +1638,7 @@
 די איצטיקער צײַט;present tense;di itstiker tsayt
 ספּעציפֿיש;specific;spetsifish
 אַפֿילו;even (emphasizing a comparison or implying extreme example);afile
-איך האָב געשריבן דעמ בריװ און געשיקט;I wrote the letter and sent it;ikh hob geshribt dem briv un geshikt (when there are multiple past tense verbs, typically only the first is accompanied by the helping verb)
+איך האָב געשריבן דעם בריװ און געשיקט;I wrote the letter and sent it;ikh hob geshribt dem briv un geshikt (when there are multiple past tense verbs, typically only the first is accompanied by the helping verb)
 דער פֿרײלעכס(ן);merry dance tune;der freylekhs(n)
 די אונטערנעמונג(ען);undertaking, affair;di unternemung(en)
 באַניצן;to use, employ;banitsn
