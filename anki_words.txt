@@ -1638,7 +1638,7 @@
 די איצטיקער צײַט;present tense;di itstiker tsayt
 ספּעציפֿיש;specific;spetsifish
 אַפֿילו;even (emphasizing a comparison or implying extreme example);afile
-איך האָב געשריבן דעם בריװ און געשיקט;I wrote the letter and sent it;ikh hob geshribt dem briv un geshikt (when there are multiple past tense verbs, typically only the first is accompanied by the helping verb)
+איך האָב געשריבן דעם בריװ און געשיקט;I wrote the letter and sent it;ikh hob geshribn dem briv un geshikt (when there are multiple past tense verbs, typically only the first is accompanied by the helping verb)
 דער פֿרײלעכס(ן);merry dance tune;der freylekhs(n)
 די אונטערנעמונג(ען);undertaking, affair;di unternemung(en)
 באַניצן;to use, employ;banitsn
