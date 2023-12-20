@@ -1500,7 +1500,7 @@
 האַלבער טאָג;noon;halber tog
 אַ פֿערטל צו פֿיר נאָך מיטאָג;a quarter to four in the afternoon;a fertl tsu fir nokh mitog
 פֿינף און צװאַנציק מינוט נאָך זיבן;twenty five minutes after seven;finf un tsvantsik minut nokh zibn
-האַלב צענ אין אָװנט;nine-thirty in the evening;halb tsen in ovnt
+האַלב צען אין אָװנט;nine-thirty in the evening;halb tsen in ovnt
 האַלבע נאַכט;midnight;malbe nakht
 פֿינף מינוט צו צװײ בײַ נאַכט;five to two at night;finf minut tsu tsvey bay nakht
 פֿאָרן צו גאַסט;to travel to visit;forn tsu gast (any movement verb can be used: קומען, גײן)
@@ -1671,7 +1671,7 @@
 די טרער(ן);tear (e.g., from crying);di trer(n)
 עס דאַכט זיך מיר;it seems to me...;es dakht zikh mir...
 די קאָמיטעט(ן);committee;di komitet(n)
-זײ האָבן באַשלאָסן;they decided;zey hobn bashlosn (past participle of באַסהליסן)
+זײ האָבן באַשלאָסן;they decided;zey hobn bashlosn (past participle of באַשליסן)
 באַשליסן;to decide;bashlisn
 אַרבעטסלאָז;unemployed;arbetsloz
 די סוף-עקזאַמען(ס);final exam(s);di sof-eksamen(s)
