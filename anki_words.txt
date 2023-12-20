@@ -1568,7 +1568,7 @@
 אומגעלומפּערט;clumsy, awkward;umgelumpert
 פֿאַלש;false;falsh
 רײַטן;to ride;raytn
-רינען;to run (e.g., like a river);rinen
+רינען;to run, to flow (e.g., like a river);rinen
 קריכן;to crawl;krikhn
 דאָס װאַסערל(עך);stream;dos vaserl(ekh)
 װאָס געשעט עס;what's happening;vos geshet es
@@ -1588,7 +1588,7 @@
 איך בין געריטן;I rode;ikh bin geritn (past participle of רײַטן)
 איך בין געלאָפֿן;I ran;ikh bin gelofn (past participle of לױפֿן)
 איך בין געשפּרונגען;I jumped;ikh bin geshprungen (past participle of שפּרינגען)
-דער טײַך איז גערונען;the river ran;der taykh iz gerunen (past participle of רינען)
+דער טײַך איז גערונען;the river ran/flowed;der taykh iz gerunen (past participle of רינען)
 איך בין געשטאָרבן;I died;ikh bin geshtorbn (past participle of שטאָרבן)
 איך בין געקומען;I came;ikh bin gekumen (past participle of קומען)
 איך בין געשװוּמען;I swam;ikh bin geshvumen (past participle of שװימען)
@@ -1666,3 +1666,47 @@
 װיגן;to rock;vign
 די װעראַנדע(ס);veranda, porch;di verande(s)
 דער ברעג(ן);coast, shore, river bank;der breg(n)
+גיבן אַכט;to pay attention;gibn akht
+די צוקערקע(ס);candy;di tsukerke(s)
+די טרער(ן);tear (e.g., from crying);di trer(n)
+עס דאַכט זיך מיר;it seems to me...;es dakht zikh mir...
+די קאָמיטעט(ן);committee;di komitet(n)
+זײ האָבן באַשלאָסן;they decided;zey hobn bashlosn (past participle of באַסהליסן)
+באַשליסן;to decide;bashlisn
+אַרבעטסלאָז;unemployed;arbetsloz
+די סוף-עקזאַמען(ס);final exam(s);di sof-eksamen(s)
+די געזעגענונג-שׂמחה (שׂמחות);farewell party;di gezegenung-simkhe(s)
+געזעגענען זיך;to bid farewell;gezegn
+עס איז נישטאָ קײן סך אַרבעט;there's not a lot of jobs;es iz nishto keyn sakh arbet
+באַטײליקן;to participate;bateylikn
+איך זאָרג זיך;I worry;ikh zorg zikh
+ברית-חדשה / ברית-חדושות;New Testament;bris-khadoshe(s)
+די בשׂורה (בשורות);(good) news, gospel (secular and religious use);di bsure(s)
+לאָמיר נאָר הערן גוטע בשׂורה;let's hear good news (said when people tell you good news);lomir nor hern gute bsure
+איך װאָלט געװאָלט אַז עס זאָל נישט קאָסטן אַזױ פֿיל;I wish it didn't cost so much;ikh volt gevolt az es zol nisht kostn azoy fil
+די בושה (בושות);shame, embarassment;di bushe(s)
+בלױז;just, only;bloyz
+פֿאַרטשעפּען;to stumble on, bump into;fartshepen
+איך בין געגאַנגען און געלאַכט;I walked and laughed;ikh bin gegangen un gelakht (single helping verb can serve multiple past participles, even if they take different helping verbs)
+איך האָב געטרונקן;I drank;ikh hob getrunken (past participle of טרינקן)
+איך בין שיִער נישט געשטאָרבן פֿאַר בושה;I nearly died of shame;ikh bin shir nisht geshtorbn far bushe
+דער טױט(ן);death, dead (adj);der toyt(n)
+הרגענען;to kill;hargenen (synonym, טײטן)
+װינטשן;to wish;vintshn
+ניסן;to sneeze;nisn
+איך האָב געװיזן;I showed;ikh hob gevizn (part participle of װײַזן)
+איך האָב געשריבן;I showed;ikh hob gevizn (part participle of װײַזן)
+איך האָב געשריבן;I wrote;ikh hob geshribn (part participle of שרײַבן)
+איך האָב געריסן;I rode;ikh hob gerisn (part participle of רײַסן)
+איך האָב געגאָסן;I poured (liquid);ikh hob gegosn (part participle of גיסן)
+איך האָב געגעבן;I gave;ikh hob gegebn (part participle of געבן)
+איך האָב געהײסן;I named;ikh hob geheysn (part participle of הײסן)
+איך האָב געטאָן;I did;ikh hob geton (part participle of טאָן)
+איך האָב געזען;I saw;ikh hob gezen (part participle of זען)
+איך האָב געטראָגן;I carried;ikh hob getrogn (part participle of טראָגן)
+איך האָב געהאַלטן;I held;ikh hob gehaltn (part participle of האַלטן)
+איך האָב געזונגען;I sang;ikh hob gezungen (part participle of זינגען)
+איך האָב געװוּנטשן;I wished;ikh hob gevuntshn (part participle of װינטשן)
+איך האָב געטראָפֿן;I guessed;ikh hob getrofn (part participle of טרעפֿן)
+איך האָב געטאַנצט;I danced;ikh hob getantst (part participle of טאַנצן)
+איך האָב געלאַכט;I laughed;ikh hob gelakht (part participle of לאַכן)
