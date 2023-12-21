@@ -1676,7 +1676,7 @@
 אַרבעטסלאָז;unemployed;arbetsloz
 די סוף-עקזאַמען(ס);final exam(s);di sof-eksamen(s)
 די געזעגענונג-שׂמחה (שׂמחות);farewell party;di gezegenung-simkhe(s)
-געזעגענען זיך;to bid farewell;gezegn
+געזעגענען זיך;to bid farewell;gezegenen zikh
 עס איז נישטאָ קײן סך אַרבעט;there's not a lot of jobs;es iz nishto keyn sakh arbet
 באַטײליקן;to participate;bateylikn
 איך זאָרג זיך;I worry;ikh zorg zikh
