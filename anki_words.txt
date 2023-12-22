@@ -1710,3 +1710,43 @@
 איך האָב געטראָפֿן;I guessed;ikh hob getrofn (part participle of טרעפֿן)
 איך האָב געטאַנצט;I danced;ikh hob getantst (part participle of טאַנצן)
 איך האָב געלאַכט;I laughed;ikh hob gelakht (part participle of לאַכן)
+אַרומרעדן;to discuss;arumredn
+דאָס משל(ים);fable, allegory, metaphor, example;dos moshl (mesholem)
+דער קורס(ן);course (in school);der kurs(n)
+איך טו;I do;ikh tu
+דו טוסט;you (sing.) do; du tust
+ער טוט;he does;er tut
+מיר טוען;we do;mir tuen
+איר טוט;you (pl.) do;ir tut
+זײ טוען;they do;zey tuen
+איך װײס;I know;ikh veys
+דו װײסט;you (sing.) know;du veyst
+ער װײס;he knows;er veys
+מיר װײסן;we know;mir veysn
+איר װײסט;you (pl.) know;ir veyst
+זײ װײסן;they know;zey veysn
+האַרץ-רײַסנדיק;heart-rending;harts-raysndik
+דינגען;to rent;dingen
+װוּנדערלעך;wonderful;vunderlekh
+דער צענערלינג(ען);teenager;der tsenerling(en)
+צעטרעדן;to tread;tsetredn
+פֿאַרדעקן;to cover, to conceal;fardekn
+באַדעקן;to cover, to blanket, to veil;badekn
+דער אײַנװױנער(ס);inhabitant, resident;der aynvoyner(s)
+דער זין(ען);sense, consciousness;der zin(en)
+דער שנײ פֿאַרדעקט די הײַזער. װערן די הײַזער װײַס;the snow covers the houses. so the houses become white;der shney fardekt di hayzer. vern di hayzer vays (when the verb is in first position, it means "so", it's "consecutive word order")
+זײ האָבן לאַנג געװאַרט ביז זײ האָבן זיך דערװאַרט;they waited a long time until the thing they waited for happened;zey hobn lang gevart biz zey hobn zikh dervart
+אַז מען לעבט, דערלעבט מען;if you live long enough, good things happen;az men lebt, derlebt men
+זײ האָבן גענומען טראַכן;they started thinking;zey hobn genumen trakhn
+די לאָגיק;logic;di logik
+איך קענ זיך נישט דערװאַרטן ביז שבת;I can't wait until Shabes;ikh ken zikh nisht dervartn biz shabes
+דער שטאָלץ(ן);stilts;der sholts(n)
+דער סימן(ים);sign, symbol, indication;der simen (simonem)
+קײן מאָל נישט;never;keyn mol nisht
+איך האָב קײן מאָל נישט געזונגען קײן ליד;I've never sung any song;ikh hob keyn mol nisht gezungen keyn lid
+איך האָב געגעסן;I ate;ikh hob gegesn (past participle of עסן)
+איך האָב גענומען;I took;ikh hob genumen (past participle of נעמען)
+איך האָב אָנגעהױבן;I began;ikh hob ongehoybn (past participle of אָנהײבן)
+דאָס דערלױבעניש(ן);permission;dos derloybenish(n)
+סאַראַ מענטש;what a mentsh!;sara mentsh!
+דער אַרײַנפֿיר(ן);introduction;der araynfir(n)
