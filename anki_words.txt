@@ -1501,7 +1501,7 @@
 אַ פֿערטל צו פֿיר נאָך מיטאָג;a quarter to four in the afternoon;a fertl tsu fir nokh mitog
 פֿינף און צװאַנציק מינוט נאָך זיבן;twenty five minutes after seven;finf un tsvantsik minut nokh zibn
 האַלב צען אין אָװנט;nine-thirty in the evening;halb tsen in ovnt
-האַלבע נאַכט;midnight;malbe nakht
+האַלבע נאַכט;midnight;halbe nakht
 פֿינף מינוט צו צװײ בײַ נאַכט;five to two at night;finf minut tsu tsvey bay nakht
 פֿאָרן צו גאַסט;to travel to visit;forn tsu gast (any movement verb can be used: קומען, גײן)
 דאַנקטאָג;Thanksgiving (American holiday);danktog
@@ -1697,7 +1697,7 @@
 איך האָב געװיזן;I showed;ikh hob gevizn (part participle of װײַזן)
 איך האָב געשריבן;I showed;ikh hob gevizn (part participle of װײַזן)
 איך האָב געשריבן;I wrote;ikh hob geshribn (part participle of שרײַבן)
-איך האָב געריסן;I rode;ikh hob gerisn (part participle of רײַסן)
+איך האָב געריסן;I tore/picked (fruit);ikh hob gerisn (part participle of רײַסן)
 איך האָב געגאָסן;I poured (liquid);ikh hob gegosn (part participle of גיסן)
 איך האָב געגעבן;I gave;ikh hob gegebn (part participle of געבן)
 איך האָב געהײסן;I named;ikh hob geheysn (part participle of הײסן)
@@ -1739,8 +1739,8 @@
 אַז מען לעבט, דערלעבט מען;if you live long enough, good things happen;az men lebt, derlebt men
 זײ האָבן גענומען טראַכן;they started thinking;zey hobn genumen trakhn
 די לאָגיק;logic;di logik
-איך קענ זיך נישט דערװאַרטן ביז שבת;I can't wait until Shabes;ikh ken zikh nisht dervartn biz shabes
-דער שטאָלץ(ן);stilts;der sholts(n)
+איך קען זיך נישט דערװאַרטן ביז שבת;I can't wait until Shabes;ikh ken zikh nisht dervartn biz shabes
+דער שטאָלץ(ן);stilts;der shtolts(n)
 דער סימן(ים);sign, symbol, indication;der simen (simonem)
 קײן מאָל נישט;never;keyn mol nisht
 איך האָב קײן מאָל נישט געזונגען קײן ליד;I've never sung any song;ikh hob keyn mol nisht gezungen keyn lid
