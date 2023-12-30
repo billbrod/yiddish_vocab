@@ -1659,7 +1659,7 @@
 די האָפֿענונג(ען);hope;di hofenung
 דריקן;to squeeze, to press;drikn
 אונטערדריקן;to oppress, to suppress;unterdrikn
-איך בינ לעצטנס גאָרנישט נישט געשלאָפֿן;I haven't been sleeping at all recently;ikh bin letsnts gornisht nisht geshlofn
+איך בין לעצטנס גאָרנישט נישט געשלאָפֿן;I haven't been sleeping at all recently;ikh bin letsnts gornisht nisht geshlofn
 איך רעד צו פֿיל;I talk too much;ikh red tsu fil
 אַרױסקוקן אױף;to look forward to;aroyskukn af
 דאָס װיגעלע(ך);cradle, crib;der vigele(kh)
