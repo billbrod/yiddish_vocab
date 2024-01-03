@@ -1398,7 +1398,7 @@
 דאָס מעבל;furniture;dos mebl (plural same as singular)
 מיט װאָס זײַנען זײ אַנדערש?;how are they different?;mit vos zaynen zey andersh?
 דער טאָװל(ן);board (i.e., whiteboard or blackboard);der tovl(n)
-געטראָפֿט;(you) guessed (it);getroft
+געטראָפֿן;(you) guessed (it);getrofn
 נײן, פֿרעג װײַטער;no, keep asking (questions);neyn, freg vayter
 די מיטלשול(ן);high school;di mitlshul
 מאַגיסטערס;master's (degree);magisters
@@ -1750,3 +1750,9 @@
 דאָס דערלױבעניש(ן);permission;dos derloybenish(n)
 סאַראַ מענטש;what a mentsh!;sara mentsh!
 דער אַרײַנפֿיר(ן);introduction;der araynfir(n)
+איך דאַרף;I must;ikh darf
+דו דאַרפֿסט;you (sing.) must;du darfst
+ער דאַרף;he must;er darf
+מיר דאַרפֿן;we must;mir darfn
+איר דאַרפֿט;you (pl.) must;ir darft
+זײ דאַרפֿן;they must;zey darfn
