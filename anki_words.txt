@@ -1756,3 +1756,41 @@
 מיר דאַרפֿן;we must;mir darfn
 איר דאַרפֿט;you (pl.) must;ir darft
 זײ דאַרפֿן;they must;zey darfn
+פֿאַרקערט;on the contrary, the opposite is true;farkert
+די לײַט(ן);adult, respectable/proper person, (in plural) people/folks;di layt(n)
+דער צונאָמען (צונעמען), דער צונעמעניש(ן);nickname;der tsunomen (tsunemen), der tsunemenish(n)
+דער חדר(ים);Jewish (religious) elementary school, room;der kheyder (khadorem)
+דער חמור-אײזל;womanizer, lecher;der khamer-eyzl (note that both khamer and eyzl mean donkey)
+דער לעקיש(ן);fool, simpleton;der lekish(n)
+דער גלאָמפּ(ן);tree stump, (cabbage or lettuce) stalk, idiot; der glomp(n)
+דער שמױגער(ס);fool;der shmoyger(s)
+דער תּם;simpleton, idiot, fool;der tam
+קלעפּן;to attach;klepn
+באשר;insofar as, because it is said that;bansher
+גראָב;thick, rude, coarse;grob
+דער קונדס(ים);prankster, wise guy, brat;der kundes (kundeysem)
+כיכען;to giggle;khikhen
+דרײען;to turn, spin, twist;dreyen
+טײלן;to divide, share, apportion;teyln
+די קימפּעטאָרין(ס);woman in or after childbirth;di kimpetorin(s)
+דער הױפֿן(ס);pile, heap, handful;der hoyfn(s)
+די ציג(ן);goat;di tsig(n)
+דער פּאַטש (פּעטש);slap (noun and verb), blow;der patsh (petsh)
+בטבֿע;by nature, naturally;beteve
+דער שלעגער(ס);thug;der shleger(s)
+דעריבער;therefore;deriber
+בילן;to howl, to bark;biln
+די מורא(ות);fear;di moyre(s)
+דער כּלבֿ(ים);(vicious) dog, scoundrel;der keylev (klovem)
+קאָנען;to be able;konen (alt. form of קענען)
+משוגע;crazy (adj.);meshuge
+דאָס משוגעת(ן);insanity, madness, craziness;di meshegas(n)
+דער ביס(ן);bite;der bis(n)
+דער טאָטער(ן);Tatar, quack doctor, fortune teller;der toter(n)
+איך געמאַכט פֿיס;I got out of there, I made tracks;ikh hob gemakht fis
+קױלערן זיך פֿון געלעכטער;to fall over laughing;koylern zikh fun gelekhter
+קױלערן זיך;to roll;koylern zikh
+עליו השלום;may he rest in peace, peace be upon him;olev hasholem
+עליו השנאָבל;may he rest in peace (mocking), may he rest in pieces;olev hashnobl (from Gimpl Tam)
+הױלן;to howl (like a dog or wolf);hoyln
+די צױג (צײַג);bitch (female dog);di tsoyg (tsayg)
