@@ -1461,7 +1461,7 @@
 פֿאַרבײַגײן;to go past;farbaygeyn
 שטעלן אײנעם דעם אַנדערן פֿראַגעס;to ask each other questions;shteln eynem dem andern frages
 די קונסט(ן);art;di kunst(n)
-דער קינסטלער(ס);artist;di kinstler(s)
+דער קינסטלער(ס);artist;der kinstler(s)
 דער טעאַטער איז לעבן מוזײ;the theater is near the museum;der teater iz lebn muzey (don't use definite article when location follows לעבן)
 דער טעאַטער איז אױף דעמב-גאַס, ראָג צענטער-גאַס;the theater is on the corner of oak and center streets;der teater iz af demb-gas, rog tsenter-gas
 איך האָב נישט קײן אַנונג;I have no idea!;ikh hob nisht keyn anung
